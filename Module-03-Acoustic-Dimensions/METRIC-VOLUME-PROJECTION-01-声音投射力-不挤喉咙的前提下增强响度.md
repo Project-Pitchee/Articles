@@ -7,9 +7,9 @@
 
 ## 一、理解这项主题
 
-"听不听得清"是好几件事拼起来的：你怎么发、声音什么频谱、离多远、房间怎么样、背景多吵、对方耳朵怎么样。投射得好是多方配合，单靠喉咙使劲不行，但也不能说"响度全靠共鸣"，两边都片面。
+"听不听得清"是好几件事拼起来的：你怎么发、声音什么频谱、离多远、房间怎么样、背景多吵、对方耳朵怎么样。投射得好是多方配合，单靠喉咙使劲不行，但也不能说"响度全靠共鸣"，两边都片面（Krause & Braida, 2002）。
 
-再说说"穿透力"这个词：它听着像嗓门大，其实更多是"清楚"。字咬清楚、共鸣位置靠前、语速别赶，小音量也能传很远。靠喊出来的"穿透力"，传不远还伤嗓，是亏本买卖。
+再说说"穿透力"这个词：它听着像嗓门大，其实更多是"清楚"。字咬清楚、共鸣位置靠前、语速别赶，小音量也能传很远（Krause & Braida, 2002）。靠喊出来的"穿透力"，传不远还伤嗓，是亏本买卖（Lane & Tranel, 1971；NIDCD, 2021）。还有个连带效应：吵的时候人不只放大音量，音高和时长也会不自觉地往上走（Stowe & Golob, 2013）。在噪声里待久了觉得嗓子累、音还飘，根子多半在这里——先降噪、走近点，比硬拼管用。
 
 Pitchee 显示的 dBFS 是数字录音电平，不是你嘴边多少分贝的声压级。电平低的提示线是 −45 dBFS（语音电平中位数），它是提醒你检查录音条件的，换算不成听者位置的响度。
 
@@ -40,11 +40,15 @@ Pitchee 显示的 dBFS 是数字录音电平，不是你嘴边多少分贝的声
 
 **练"投远不投大"。** 找个空房间，想象对面墙上有个人，先用正常音量跟他"说话"，再试着让声音"送"到他耳朵——区别在气息和咬字，不在音量。录下来对比：后者波形可能差不多，但字清楚得多。这就是投射和喊的区别。
 
-**借房间的力。** 硬墙面的小房间比铺大地毯的会议室传声好得多，说话前先看看环境：在空旷大厅，多用共鸣、放慢语速；在小房间，正常音量就够了。环境选对，等于白捡 30% 的"响度"。
+**借房间的力。**<!-- ⚠️ 存疑标注：原文"硬墙面的小房间比铺大地毯的会议室传声好得多（待查）"过于绝对且无出处；混响太强反而损害可懂度，已按 Bradley & Reich (1998) 改写，指导含义（先看环境、再调人）不变。--> 房间的墙面和装修决定了声音怎么"走"：硬墙面、空房间混响强，声音传得远但字容易糊；地毯、软包多的房间吸声强，声音"干"、传不远但字清楚。教室声学模拟发现，可懂度最高的混响时间大约在 0.3–0.6 秒，太长反而糊（Bradley & Reich, 1998）。说话前先看看环境：在混响大的空旷地方，多用共鸣、放慢语速、把字咬清楚；在吸声强的小房间，正常音量就够了，不用加力。环境选对，传声效果能好上一大截，都不用你多使劲。
 
 **设个"音量天花板"。** 提前定好：什么情况下允许自己大声（比如上课、带团），什么情况下不许（比如练到嗓子发干）。天花板一碰到就停，别靠意志力硬扛。保护嗓子的最好办法，是提前定好规则。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- [NIDCD：Taking Care of Your Voice](https://www.nidcd.nih.gov/health/taking-care-your-voice)：建议别在噪声里硬拼，必要时用扩音设备。
-- [ASHA：Voice Disorders](https://www.asha.org/practice-portal/clinical-topics/voice-disorders/)：介绍响度、发声与共鸣的综合评估。本文的电平数字属于产品录音规则，不是临床常模。
+1. Krause, J. C., & Braida, L. D. (2002). Investigating alternative forms of clear speech: The effects of speaking rate and speaking mode on intelligibility. *The Journal of the Acoustical Society of America*, *112*(5), 2165–2172. https://doi.org/10.1121/1.1509432 ——"说清楚"本身就能提高可懂度，不只靠大声或放慢；发声方式自带声学优势。
+2. Lane, H., & Tranel, B. (1971). The Lombard sign and the role of hearing in speech. *Journal of Speech and Hearing Research*, *14*(4), 677–709. https://doi.org/10.1044/jshr.1404.677 ——环境越吵人越不自觉地提高音量（Lombard 效应）；硬拼是本能，不是好策略。
+3. American Speech-Language-Hearing Association. (n.d.). Voice disorders. ASHA Practice Portal. https://www.asha.org/Practice-Portal/Clinical-Topics/Voice-Disorders/ ——响度、发声与共鸣的综合评估；本文的电平数字属于产品录音规则，不是临床常模。
+4. National Institute on Deafness and Other Communication Disorders. (2021, March). Taking care of your voice (NIH Publication No. 14-5160). https://www.nidcd.nih.gov/health/taking-care-your-voice ——别在噪声里硬拼，必要时用扩音设备。
+5. Bradley, J. S., & Reich, R. (1998). Computer studies of optimum classroom acoustics. *Canadian Acoustics*, *26*(3), 16. https://jcaa.caa-aca.ca/index.php/jcaa/article/view/1134 ——教室声学模拟：可懂度最高的混响时间约 0.3–0.6 秒；过长反而糊。
+6. Stowe, L. M., & Golob, E. J. (2013). Evidence that the Lombard effect is frequency-specific in humans. *The Journal of the Acoustical Society of America*, *133*(1), 640–647. https://pmc.ncbi.nlm.nih.gov/articles/PMC3985863/ ——噪声中说话，响度、时长、基频都会上升；不只音量起作用。

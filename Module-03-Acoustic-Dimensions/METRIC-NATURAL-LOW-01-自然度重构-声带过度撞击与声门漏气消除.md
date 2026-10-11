@@ -11,7 +11,7 @@
 
 举个典型例子：一段音色很亮、音高 190 Hz，但每个字都字正腔圆、句尾统一上扬的朗读——音色分和音高项都不低，自然分大概率偏低。这不是你"错了"，是模型觉得它不像日常聊天。反过来，一段随口讲的语音，音高音色都没那么"标准"，自然分可能反而高。
 
-"自然"在这里不评价真假，也不评价你这个人。配音腔、舞台感、很有辨识度的个人风格，都可以是你主动要的效果。它也不量嗓子健不健康、心情好不好。当个参考就行，具体练什么还是以你的耳朵和目标为准。
+"自然"在这里不评价真假，也不评价你这个人。配音腔、舞台感、很有辨识度的个人风格，都可以是你主动要的效果（ASHA 性别肯定嗓音，n.d.）。它也不量嗓子健不健康、心情好不好（ASHA 嗓音障碍，n.d.）。当个参考就行，具体练什么还是以你的耳朵和目标为准。
 
 还有个误区：觉得"自然"就是"不练"。其实日常说话本身就有大量技巧——重音、停顿、语气词，只是你用得太熟，意识不到了。练习的目标不是"去掉技巧"，是把新学的那些也练到这么熟，熟到听不出来。
 
@@ -43,7 +43,7 @@
 
 **给风格起个名字。** 很多人心里不止一种想要的声音：跟朋友聊天的、开会发言的、打电话的。给每个起个名字，分别练、分别记分。自然分只在"聊天那个"上有意义，别拿它去量"发言那个"。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- [ASHA：Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)：支持声音目标多样性和个人化的沟通选择，不定义 Pitchee 的模型分数。
-- [ASHA：Voice Disorders](https://www.asha.org/practice-portal/clinical-topics/voice-disorders/)：说明听感观察和疾病评估是两回事。自然分不是该指南里的临床声学指标。
+1. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/Practice-Portal/Professional-Issues/Gender-Affirming-Voice-and-Communication/ ——支持声音目标多样性和个人化的沟通选择；不定义 Pitchee 的模型分数。
+2. American Speech-Language-Hearing Association. (n.d.). Voice disorders. ASHA Practice Portal. https://www.asha.org/Practice-Portal/Clinical-Topics/Voice-Disorders/ ——听感观察和疾病评估是两回事；自然分不是该指南里的临床声学指标。

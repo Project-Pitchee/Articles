@@ -7,11 +7,11 @@
 
 ## 一、理解这项主题
 
-语调就是说话时音高的起伏，重音可以通过音高、时长、响度、停顿好几种方式打出来。研究里说的"男性说话趋势"是群体平均，不是每个人的说明书——不存在"男人必须句句降调"这种规则。
+语调就是说话时音高的起伏，重音可以通过音高、时长、响度、停顿好几种方式打出来。英语研究里甚至发现，区分重音时音高起的作用很小，真正靠的是响度和时长的变化（Kochanski et al., 2005）——想让重点词"站出来"，不一定非要抬高音。研究里说的"男性说话趋势"是群体平均，不是每个人的说明书（Schneider & Courey, 2016）——不存在"男人必须句句降调"这种规则。
 
-句尾上扬不等于不自信，句尾下降也不等于有气场。它们的意思跟着语言、场合、你和对方的关系走。你可以试试更平稳的表达，也可以保留丰富的起伏，选贴合你自己说话习惯的。
+句尾走上扬还是下降，不直接等于"自信"或"没气场"——意思跟着语言、场合、你和对方的关系走（House, 2006）。你可以试试更平稳的表达，也可以保留丰富的起伏，选贴合你自己说话习惯的（American Speech-Language-Hearing Association, n.d.）。
 
-说普通话还要分清两件事：**字词声调**和**句子语调**。"妈麻马骂"四个声调决定字的意思，不能丢；句子整体往上走还是往下走，是语调。如果为了压低音把所有字都压成一条平线，别人可能先听不懂你在说什么。练习看的是表达合不合适，不是让句子钉在某个 Hz 上。
+说普通话还要分清两件事：**字词声调**和**句子语调**。"妈麻马骂"四个声调决定字的意思，不能丢；句子整体往上走还是往下走，是语调。如果为了压低音把所有字都压成一条平线，别人可能先听不懂你在说什么（Xu, 1999）。练习看的是表达合不合适，不是让句子钉在某个 Hz 上。
 
 ## 二、练习前的观察
 
@@ -44,7 +44,10 @@
 
 Pitchee 的**自然分**是模型判断这段录音像不像日常说话，可以跟回听一起参考。当个参考就行，别让它替你决定该怎么说话。如果调语调让你更费力，就把变化调小，或者先停下。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **ASHA**：[Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)。强调语言文化差异和个人沟通目标。
-- **Schneider 与 Courey，UCSF（2016）**：[Transgender voice and communication — vocal health and considerations](https://transcare.ucsf.edu/guidelines/vocal-health)。包含语调与男性向声音支持的讨论；不构成统一的句末降调或固定音高处方。
+1. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/
+2. House, J. (2006). Constructing a context with intonation. *Journal of Pragmatics*, *38*(10), 1542–1558. https://doi.org/10.1016/j.pragma.2005.07.005
+3. Schneider, S. L., & Courey, M. S. (2016). Transgender voice and communication—Vocal health and considerations. UCSF Gender Affirming Health Program. https://transcare.ucsf.edu/guidelines/vocal-health
+4. Xu, Y. (1999). Effects of tone and focus on the formation and alignment of F0 contours. *Journal of Phonetics*, *27*(1), 55–105. https://doi.org/10.1006/jpho.1999.0086
+5. Kochanski, G., Grabe, E., Coleman, J., & Rosner, B. (2005). Loudness predicts prominence: Fundamental frequency lends little. *The Journal of the Acoustical Society of America*, *118*(2), 1038–1054. https://doi.org/10.1121/1.1923349

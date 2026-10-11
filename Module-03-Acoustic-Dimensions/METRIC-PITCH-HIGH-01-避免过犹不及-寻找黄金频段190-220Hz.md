@@ -13,7 +13,7 @@
 
 关于 200 Hz：女性向公式里音高那一项到 200 Hz 就封顶了——这是产品参数，不是"推荐音高"，更不是"舒适上限"。别为了分数往上飙，嗓子会先抗议；反过来，一个你本来就舒服、喜欢的声音，也不用因为"超过了某个频段"就压下来。
 
-再说说"黄金频段"这个说法：网上流传的 190–220 Hz 之类，顶多是群体数据的中间地带。你的声带、你的目标、你说话的场合都不一样，硬套一个区间，轻则别扭，重则伤嗓。舒服、可重复、符合你的使用场景，就是你的频段。
+再说说"黄金频段"这个说法：网上流传的 190–220 Hz 之类，顶多是群体数据的中间地带（Gelfer & Bennett, 2013；Spencer, 1988）。你的声带、你的目标、你说话的场合都不一样，硬套一个区间，轻则别扭，重则伤嗓。舒服、可重复、符合你的使用场景，就是你的频段。
 
 还有个常见的坑：把"音高"和"音量"绑在一起。很多人一想提高音高，嗓门也跟着大；一想压低，声音也跟着小。其实两者独立：你完全可以小声说高音、大声说低音。练的时候分开盯，一次只动一个。
 
@@ -39,13 +39,17 @@
 
 **换成自己的话。** 把比较满意的那个版本，拿去说一句没准备的话。如果非得用力才能维持，就降难度或今天到此为止，不用凑时长证明什么。
 
-群体研究里的基频范围只能帮你理解"大多数人在哪"，替不了你选。你可以留两个都舒服的版本，分别试试用在提问、讲事情、闲聊里，看哪个场合用哪个更顺，再决定想保留哪些。
+群体研究里的基频范围只能帮你理解"大多数人在哪"，替不了你选（Wolfe et al., 1990）。你可以留两个都舒服的版本，分别试试用在提问、讲事情、闲聊里，看哪个场合用哪个更顺，再决定想保留哪些。
 
 **给音高找个"锚"。** 找一首你熟的歌，记住里面某个舒服的音，比如副歌第一句的起音。每次练习前先哼那个音定个位，再开始说话。耳朵对"相对位置"比对"绝对 Hz 数"敏感得多，有个锚不容易跑偏。
 
-**录个"一天三段"。** 早、中、晚各录一句同样的话，听听音高和松紧度的变化。很多人早上偏低紧、晚上偏高飘，这是正常的生理波动。知道自己的波动规律，就不会因为"晚上比早上高 10 Hz"瞎紧张。
+**录个"一天三段"。** 早、中、晚各录一句同样的话，听听音高和松紧度的变化。很多人早上偏低、晚上偏高：同一批人一天里三个时间点的录音显示，F0 在一天之内会系统性地往上走（Heald & Nusbaum, 2015）。知道自己的波动规律，就不会因为"晚上比早上高 10 Hz"瞎紧张。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- [ASHA：Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)：提醒别过度盯着基频，承认女性声音配置和个人目标的多样性。
-- [NIDCD：Taking Care of Your Voice](https://www.nidcd.nih.gov/health/taking-care-your-voice)：建议根据费力、疲劳和声音变化调整用声，持续异常时去寻求评估。
+1. Gelfer, M. P., & Bennett, Q. E. (2013). Speaking fundamental frequency and vowel formant frequencies: Effects on perception of gender. *Journal of Voice*, *27*(5), 556–566. https://doi.org/10.1016/j.jvoice.2012.11.008 ——基频与共振峰如何共同影响性别感知；基频区间的结论来自群体实验。
+2. Spencer, L. E. (1988). Speech characteristics of male-to-female transsexuals: A perceptual and acoustic study. *Folia Phoniatrica*, *40*(1), 31–42. https://doi.org/10.1159/000265881 ——早期感知实验：160 Hz 上下曾被用作男女声的经验分界，样本很小。
+3. Wolfe, V. I., Ratusnik, D. L., Smith, F. H., & Northrop, G. (1990). Intonation and fundamental frequency in male-to-female transsexuals. *Journal of Speech and Hearing Disorders*, *55*(1), 43–50. https://doi.org/10.1044/jshd.5501.43 ——基频与女性化评分相关最高，但个体差异大，语调的作用远小于基频。
+4. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/Practice-Portal/Professional-Issues/Gender-Affirming-Voice-and-Communication/ ——别过度盯着基频；承认女性声音配置和个人目标的多样性。
+5. National Institute on Deafness and Other Communication Disorders. (2021, March). Taking care of your voice (NIH Publication No. 14-5160). https://www.nidcd.nih.gov/health/taking-care-your-voice ——根据费力、疲劳和声音变化调整用声；持续异常时寻求评估。
+6. Heald, S. L. M., & Nusbaum, H. C. (2015). Variability in vowel production within and between days. *PLoS ONE*, *10*(9), e0136791. https://doi.org/10.1371/journal.pone.0136791 ——一天里三个时间点（早/中/晚）的录音显示，F0 会系统性变化；别拿晨间录音当全天基准。
