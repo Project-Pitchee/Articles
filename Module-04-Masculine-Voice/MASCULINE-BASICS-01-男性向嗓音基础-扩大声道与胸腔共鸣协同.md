@@ -7,17 +7,17 @@
 
 ## 一、理解这项主题
 
-男性向声音没有统一标准。听的人会把音高、音色、说话方式放在一起判断，还受语言和场合影响。你不用把所有特征一起改，挑对自己有意义的部分就行。
+男性向声音没有统一标准。这篇是写给想往男性方向探索声音的人的——跨性别男性、非二元性别者，或者还没想清楚标签的人，都可以按自己的目标取用。听的人会把音高、音色、说话方式放在一起判断（Hillenbrand & Clark, 2009），还受语言和场合影响。你不用把所有特征一起改，挑对自己有意义的部分就行（American Speech-Language-Hearing Association [ASHA], n.d.）。
 
 先分清三个可以动手的方向：
 
 - **音高**：整体说话偏高还是偏低。基频（F0）就是声带振动的频率，跟听到的音高有关。
-- **音色**：声音听起来明亮还是深沉、轻还是结实。这跟声道的形状有关，也就是常说的共鸣。共振峰 F1–F4 和基频是两回事，Pitchee 目前没有共振峰分析功能，这部分数据看不到。
+- **音色**：声音听起来明亮还是深沉、轻还是结实。这跟声道的形状有关，也就是常说的共鸣。共振峰 F1–F4 和基频是两回事（Fant, 1960），Pitchee 目前没有共振峰分析功能，这部分数据看不到。把声道拉长——圆唇、喉头放松时都会发生——共振峰整体往低走，声音听起来就更"深"。"乌"听起来比"啊"深，原理就在这里（Fant, 1960）。
 - **表达**：停顿、语速、重音、句尾的走向。这些不改变音高音色，但很影响整体印象。
 
 Pitchee 的**音色分**是模型按女性向参考特征给你打的分，**自然分**是模型判断这段录音像不像日常说话。当个参考就行，具体练什么还是以你的耳朵和目标为准。
 
-有些人在低音区会觉得胸口有振动感，有些人没感觉。这只是个人体感，不是必须达到的效果，更不能拿它判断练得对不对。
+有些人在低音区会觉得胸口有振动感，有些人没感觉。这只是个人体感，不是必须达到的效果，更不能拿它判断练得对不对（ASHA, n.d.）。
 
 ## 二、练习前的观察
 
@@ -55,7 +55,8 @@ Pitchee 的**音色分**是模型按女性向参考特征给你打的分，**自
 
 挑一个负担小的场合，比如跟熟人打招呼，用新版本说一两句。观察一下：对方反应自然吗？你说得累吗？如果累，就退回原来的版本，下次再试。练习是为了让日常说话更顺，不是为了攒一个"完美录音"。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **ASHA**：[Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)。专业实践综述，介绍个人目标、多种声音特征与服务选择。
-- **Schneider 与 Courey，UCSF（2016）**：[Transgender voice and communication — vocal health and considerations](https://transcare.ucsf.edu/guidelines/vocal-health)。临床概览，含男性向声音支持；文中的群体数据不作为个人训练标准。
+1. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/
+2. Fant, G. (1960). *Acoustic Theory of Speech Production*. Mouton.
+3. Hillenbrand, J. M., & Clark, M. J. (2009). The role of f0 and formant frequencies in distinguishing the voices of men and women. *Attention, Perception, & Psychophysics*, *71*(5), 1150–1166. https://doi.org/10.3758/APP.71.5.1150

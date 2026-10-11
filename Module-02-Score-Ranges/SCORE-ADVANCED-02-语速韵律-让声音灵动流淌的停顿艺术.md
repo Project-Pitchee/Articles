@@ -3,13 +3,13 @@
 - **适用场景**：总觉得自己说话太赶，或者停顿老是不在点上。
 - **适用人群**：声音底子已经有了，想打磨表达细节的人。
 - **核心目标**：学会用停顿和重音传达重点，让节奏为意思服务。
-- **修订日期**：2026-10-10
+- **修订日期**：2026-10-11
 
 ## 一、理解这项主题
 
-同一句话，停顿和重音放哪，意思的重心就跟到哪。快不等于不好，慢也不等于自然——赶时间通知朋友，和睡前讲故事，本来就该是两种节奏。没有"标准语速"这种东西，合适不合适，看场景、看对象、看你想说什么。
+同一句话，停顿和重音放哪，听的人就觉得重点在哪：普通话里，被强调的词音高范围会拉开、时长会变长，它后面的部分反而被压平（Xu & Xu, 2005）。快不等于不好，慢也不等于自然——赶时间通知朋友，和睡前讲故事，本来就该是两种节奏。没有"标准语速"这种东西，合适不合适，看场景、看对象、看你想说什么。
 
-语调和节奏确实会影响别人对你说话的整体印象，但没有哪条线索是"一票决定"的。节奏练好了，最大的回报是别人更容易听懂、你表达更省力——哪怕分数没怎么动，这也是实打实的进步。
+语调和节奏确实会影响别人对你说话的整体印象（Hancock et al., 2014），但没有哪条线索是"一票决定"的（Hillenbrand & Clark, 2009）。节奏练好了，最大的回报是别人更容易听懂、你表达更省力——哪怕分数没怎么动，这也是实打实的进步。
 
 ## 二、练习前的观察
 
@@ -44,11 +44,13 @@
 
 **练习六：对话实战。** 找一段你真实说过的话（自己录的），只听 30 秒，数三个数：停顿了几次？重音落在你想强调的词上了吗？有没有哪句是"赶"过去的？然后挑其中一句，用"切意群＋定重心"的方法重说一遍。真实对话的语料，比任何范文都更能暴露你的习惯。
 
-**两个常见误区。** 一是"慢就是好"——拖得太慢，对方会走神，意思反而传达不到。检验标准：对方不用费力就能跟上，就是合适的慢。二是"重音越多越好"——一句里超过两个重音，听的人就不知道你到底想强调哪个了。重音是聚光灯，一场戏只打一两盏才有效。
+**两个常见误区。** 一是"慢就是好"——拖得太慢，对方会走神，意思反而传达不到。检验标准：对方不用费力就能跟上，就是合适的慢。二是"重音越多越好"——一句里重音太多，听的人就抓不住你到底想强调哪个。重音是聚光灯，一场戏只打一两盏才有效。⚠️ 存疑标注："超过两个"这个具体数字是演讲训练里的经验说法，没找到文献支撑；有研究支撑的是"重音通过音高和时长变化标记信息重点"的原理（Xu & Xu, 2005），数字部分按经验参考就好。
 
 **录下来对比，别只靠感觉。** 同一段话，用两种节奏各录一遍，隔一小时再听。刚说完时的判断最不可靠——嘴还记得用力的感觉，耳朵已经被"努力"收买了。放一放再听，你会更清楚哪种真的好懂。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- [ASHA：Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)：美国言语语言听力协会的性别肯定嗓音实践门户，讨论沟通线索、文化差异与个人目标；所综述的证据不支持把语速或重音当作通用性别判据。
-- [University of Sheffield：Voice Information & Resources](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources)：谢菲尔德大学的跨性别嗓音信息与资源站，有表达、语调和日常声音使用的练习材料，可接着往下探索。
+1. Hillenbrand, J. M., & Clark, M. J. (2009). The role of f0 and formant frequencies in distinguishing the voices of men and women. *Attention, Perception, & Psychophysics*, *71*(5), 1150–1166. https://doi.org/10.3758/APP.71.5.1150
+2. Hancock, A., Colton, L., & Douglas, F. (2014). Intonation and gender perception: Applications for transgender speakers. *Journal of Voice*, *28*(2), 203–209.
+3. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/
+4. Xu, Y., & Xu, C. X. (2005). Prosodic focus in Mandarin Chinese. *Journal of Phonetics*, *33*(2), 159–197. https://doi.org/10.1016/j.wocn.2004.11.001

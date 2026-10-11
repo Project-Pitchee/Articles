@@ -7,9 +7,9 @@
 
 ## 一、理解这项主题
 
-喉头平时会跟着呼吸、吞咽、说话上下动，这是正常的。声音放低不需要把它固定在某个位置，更不需要用手、下巴或舌根往下压。
+喉头平时会跟着呼吸、吞咽、说话上下动，这是正常的（Titze, 1994）。声音放低不需要把它固定在某个位置，更不需要用手、下巴或舌根往下压。
 
-如果练着练着脖子发紧、声音发闷发哑，多半是用力过头了。但光凭这些感觉，没法自己判断是哪块肌肉的问题，更下不了"发声障碍"之类的结论。这篇讲的是怎么把练习调省力，不是看病。
+如果练着练着脖子发紧、声音发闷发哑，多半是用力过头了（Van Houtte et al., 2011）。肌肉紧张性发声障碍的综述指出，喉头周围肌肉的过度紧张是这类问题的常见机制（Van Houtte et al., 2011）——所以"别压喉"不只是"少用力"，而是别让喉头周围的肌肉替声带干活。但光凭这些感觉，没法自己判断是哪块肌肉的问题，更下不了"发声障碍"之类的结论（American Speech-Language-Hearing Association, n.d.）。这篇讲的是怎么把练习调省力，不是看病。
 
 ## 二、练习前的观察
 
@@ -19,7 +19,7 @@
 - 呼吸顺不顺畅，还是先憋住一口气再把声音挤出来？
 - 声音是不是越说越费力？有没有疼、吞咽不舒服或者明显嘶哑？
 
-只观察动作就行，不用摸、推或摇喉结。如果已经疼了或者明显嘶哑，先暂停练习；出现呼吸困难，或者吸气时有明显尖锐的喉鸣声，立即就医。
+只观察动作就行，不用摸、推或摇喉结。如果已经疼了或者明显嘶哑，先暂停练习（National Institute on Deafness and Other Communication Disorders [NIDCD], 2021）；出现呼吸困难，或者吸气时有明显尖锐的喉鸣声，立即就医（NIDCD, 2011）。
 
 ## 三、可尝试的方法
 
@@ -29,7 +29,7 @@
 
 ### 从轻松的声音开始
 
-轻轻说一个"嗯"或"好"，再接一句短话。音高就用现在容易发出的范围。如果你会轻柔叹气，也可以试一次自然的"呼"，然后回到正常说话。不用夸张哈欠，不用吹出大量气流，更不用追求低沉效果。
+轻轻说一个"嗯"或"好"，再接一句短话。音高就用现在容易发出的范围。也可以试一次轻柔的叹气，比如自然的"呼"一声，然后回到正常说话。不用夸张哈欠，不用吹出大量气流，更不用追求低沉效果。
 
 这些声音只是起点。如果某个提示反而让你更用力，就换回普通说话，或者结束这次练习。
 
@@ -37,10 +37,12 @@
 
 在轻松版本上，试着把整体音区往下挪一点点。字要咬清楚，不拿粗糙、断续或者胸口震动当成功标准。一次只说一个短句，舒服的话再少量重复。
 
-如果每次降音区都会费力，那就先保留现在的音高，去玩停顿、音色或者表达方式。反复出现的不适，值得找有嗓音经验的耳鼻喉医生或言语语言治疗师聊聊，不用等到"练出低音"再求助。
+如果每次降音区都会费力，那就先保留现在的音高，去玩停顿、音色或者表达方式。反复出现的不适，值得找有嗓音经验的耳鼻喉医生或言语语言治疗师聊聊，不用等到"练出低音"再求助（NIDCD, 2021）。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **ASHA**：[Voice Disorders](https://www.asha.org/practice-portal/clinical-topics/voice-disorders/)。嗓音障碍的评估和治疗概览；诊断需要综合信息。
-- **NIDCD**：[Taking Care of Your Voice](https://www.nidcd.nih.gov/health/taking-care-your-voice)。关于减少过度用声、安排休息和寻求帮助的公众资料。
-- **ASHA**：[Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)。说明声音目标应以当事人的需要与安全、舒适的使用为中心。
+1. American Speech-Language-Hearing Association. (n.d.). Voice disorders. ASHA Practice Portal. https://www.asha.org/practice-portal/clinical-topics/voice-disorders/
+2. National Institute on Deafness and Other Communication Disorders. (2011). Hoarseness. https://www.nidcd.nih.gov/health/hoarseness
+3. National Institute on Deafness and Other Communication Disorders. (2021). Taking care of your voice. https://www.nidcd.nih.gov/health/taking-care-your-voice
+4. Titze, I. R. (1994). *Principles of Voice Production*. Prentice Hall.
+5. Van Houtte, E., Van Lierde, K., & Claeys, S. (2011). Pathophysiology and treatment of muscle tension dysphonia: A review of the current knowledge. *Journal of Voice*, *25*(2), 202–207. https://doi.org/10.1016/j.jvoice.2009.10.009

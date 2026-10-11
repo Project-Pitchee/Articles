@@ -3,13 +3,13 @@
 - **适用场景**：点开回听或者看到分数，心里一沉，不想再练了。
 - **适用人群**：回听时容易焦虑、想先照顾好自己情绪的人。
 - **核心目标**：找到一种不难受的反馈方式，不让一次录音定义自己。
-- **修订日期**：2026-10-10
+- **修订日期**：2026-10-11
 
 ## 一、理解这项主题
 
-声音跟身份、经历，还有别人怎么回应我们，都缠在一起。听到录音里的自己，有人只是觉得陌生，有人会很难受——再加上现实里的误称、歧视或者安全压力，回听体验不好太正常了。这些感受都值得认真对待，跟"声音本身好不好"是两回事。
+声音跟身份、经历，还有别人怎么回应我们，都缠在一起（Davies et al., 2015）。听到录音里的自己，有人只是觉得陌生，有人会很难受——再加上现实里的误称、歧视或者安全压力，回听体验不好太正常了（Hancock, 2017）。这些感受都值得认真对待，跟"声音本身好不好"是两回事。
 
-录音和平时自己听到的声音本来就不一样，播放设备也会改变听感。你不用先喜欢上自己声音的每个特点，才有资格开始练，或者暂停。
+录音和平时自己听到的声音本来就不一样：说话时你听到的是骨传导和空气传导叠加的效果，录音里只有空气传导的一半，听着陌生很正常（Orepic et al., 2023）。不用先喜欢上自己声音的每个特点，才能开始练或者暂停（Hancock et al., 2011）。
 
 App 里的音色分、自然分、综合分，都是模型给的反馈。自然分只反映"这段录音像不像日常说话"，不评价你这个人真不真诚、像不像"真正的自己"。
 
@@ -35,9 +35,13 @@ App 里的音色分、自然分、综合分，都是模型给的反馈。自然�
 
 **记下能用的部分。** 写一件具体的事："这一句比较轻松""这句把不同意见说清楚了"。把这些片段或描述留着，下次翻出来，就是你已经会的东西的证据。不满意的地方也可以写，不要求每次都积极。
 
-如果这种难受已经持续影响到你的睡眠、社交或者日常生活，找尊重性别多样性的心理支持者、嗓音专业人员，或者信任的同伴聊聊。录音分不分享、用什么方式练，永远你说了算。
+如果这种难受已经持续影响到你的睡眠、社交或者日常生活，找尊重性别多样性的心理支持者、嗓音专业人员，或者信任的同伴聊聊（ASHA, n.d.）。录音分不分享、用什么方式练，永远你说了算。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- [ASHA：Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)：美国言语语言听力协会的性别肯定嗓音实践门户，其中以人为中心的照护与咨询章节，讨论个人目标、社会处境及跨专业支持。
-- [Vocal Congruence Project](https://vocalcongruence.org/)：性别肯定嗓音的教育与服务资源站，提供练习者和支持者的参考材料。本文的观察示例是自主练习建议，不是该项目的心理诊断工具。
+1. Davies, S., Papp, V. G., & Antoni, C. (2015). Voice and communication change for gender nonconforming individuals: Giving voice to the person inside. *International Journal of Transgenderism*, *16*(3), 117–159. https://doi.org/10.1080/15532739.2015.1075931
+2. Hancock, A. B. (2017). An ICF perspective on voice-related quality of life of American transgender women. *Journal of Voice*, *31*(1), 115.e1–115.e8. https://doi.org/10.1016/j.jvoice.2016.03.013
+3. Hancock, A. B., Krissinger, J., & Owen, K. (2011). Voice perceptions and quality of life of transgender people. *Journal of Voice*, *25*(5), 553–558. https://doi.org/10.1016/j.jvoice.2010.07.013
+4. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/
+5. Vocal Congruence Project. (n.d.). https://vocalcongruence.org/（性别肯定嗓音的教育与服务资源站）
+6. Orepic, P., Kannape, O. A., Faivre, N., & Blanke, O. (2023). Bone conduction facilitates self-other voice discrimination. *Royal Society Open Science*, *10*(2), 221561. https://doi.org/10.1098/rsos.221561

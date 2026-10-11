@@ -7,7 +7,7 @@
 
 ## 一、理解这项主题
 
-"明亮还是深暗""轻盈还是厚实""日常还是戏剧化"，说的是三件不同的事，别混在一起。比如同一句欢迎词，可以像平时打招呼一样说，也可以像舞台角色一样说——后者可能音色分更高、自然分更低，但它仍然是真实的人声，如果你的场景就是表演，它完全合适。
+"明亮还是深暗""轻盈还是厚实""日常还是戏剧化"，说的是三件不同的事，别混在一起（Fitch, 1997; Leung et al., 2018）。比如同一句欢迎词，可以像平时打招呼一样说，也可以像舞台角色一样说——后者可能音色分更高、自然分更低，但它仍然是真实的人声，如果你的场景就是表演，它完全合适。
 
 自然分量的只是"像不像日常说话"，它不评价你的发声方式对不对。所以先定好这次的目标：日常交谈？表演？唱歌？同一个声音在不同任务里都可以是对的，不用让所有场景拿同样的自然分。
 
@@ -23,10 +23,12 @@
 4. 比较清晰度、自己满不满意、费不费力，再看一眼音色分和自然分的变化。它们不一定同步走，正常。
 5. 找到喜欢的短句版本后，试着即兴回答"你想了解哪一项安排？"，看看这种表达在组织新内容时还好不好用。短句和即兴是两项任务，分开记。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **大学教学资源**：University of Sheffield，[Voice Information & Resources](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources)。可查阅音高、共鸣、听感重量及日常表达相关练习。
+1. Leung, Y., Oates, J., & Chan, S. P. (2018). Voice, articulation, and prosody contribute to listener perceptions of speaker gender: A systematic review and meta-analysis. *Journal of Speech, Language, and Hearing Research*, *61*(2), 266–297. https://doi.org/10.1044/2017_JSLHR-S-17-0067 —— 嗓音、构音与韵律共同影响听者对说话人的感知，"轻/厚""明/暗"等听感维度各有来源。
 
-- **产品实现**：[Pitchee Core · scoring.cpp](https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp)。本文规则与公式按源码核对。
+2. Fitch, W. T. (1997). Vocal tract length and formant frequency dispersion correlate with body size in rhesus macaques. *The Journal of the Acoustical Society of America*, *102*(2), 1213–1222. https://pubs.aip.org/asa/jasa/article/102/2/1213/558144/Vocal-tract-length-and-formant-frequency —— 共振峰结构（而非基频）是声道长度与体型感的可靠声学线索。
 
-- **产品说明**：[引导练习、复测比较与可信趋势](https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md)。说明录音检查、A/B 可比性及音频保存范围。
+3. Project Pitchee. (n.d.). scoring.cpp. project-pitchee/Core. https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp —— 本文规则与公式按源码核对。
+
+4. Project Pitchee. (n.d.). Guided practice: 引导练习、复测比较与可信趋势. Pitchee-iOS Docs. https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md —— 说明录音检查、A/B 可比性及音频保存范围。

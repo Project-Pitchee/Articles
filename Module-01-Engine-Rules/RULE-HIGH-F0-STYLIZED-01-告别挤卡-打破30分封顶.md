@@ -11,7 +11,7 @@
 
 自然分量的就是"这段录音听起来像不像日常说话"。比如一段明亮的高音舞台独白，音色分可能很高，自然分却很低——这不代表你"练错了"，只说明这段不像日常聊天。如果你要的就是表演风格，那就留着它。
 
-另外：自然分跟嗓子健康没关系。它不检查声带，也不判断发声方式。疼痛、费力、嘶哑这些身体信号，要单独处理，别等自然分掉到某个数才休息；反过来，没有不适也不等于模型就该给高分。
+另外：自然分跟嗓子健康没关系。它不检查声带，也不判断发声方式——模型只分析录音的声学特征，给不出任何关于声带状态的结论。疼痛、费力、嘶哑这些身体信号，要单独处理，别等自然分掉到某个数才休息（NIDCD, n.d.）；反过来，没有不适也不等于模型就该给高分。
 
 **技术细节**：high_f0_stylized_cap 匹配条件为 F0 > 165 Hz 且自然分 < 50，最终分上限 30（基础分更低时取更低值）。
 
@@ -29,10 +29,12 @@
 4. 如果有帮助，下次只动一个变量——只改重音，或只改停顿——再接一句没写好的即兴回答。这样才知道哪个变化真的用得上。
 5. 没听出差别就记"差不多"，本来就是戏剧化表达需求的，保留原版也行。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **产品实现**：[Pitchee Core · scoring.cpp](https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp)。本文规则与公式按源码核对。
+1. Project Pitchee. (n.d.). scoring.cpp. project-pitchee/Core. https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp —— 本文规则与公式按源码核对。
 
-- **产品说明**：[引导练习、复测比较与可信趋势](https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md)。说明录音检查、A/B 可比性及音频保存范围。
+2. Project Pitchee. (n.d.). Guided practice: 引导练习、复测比较与可信趋势. Pitchee-iOS Docs. https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md —— 说明录音检查、A/B 可比性及音频保存范围。
 
-- **专业实践资料**：ASHA，[Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)。介绍以个人目标为中心的多维声音与交流支持。
+3. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/ —— 介绍以个人目标为中心的多维声音与交流支持。
+
+4. National Institute on Deafness and Other Communication Disorders. (n.d.). Taking care of your voice. https://www.nidcd.nih.gov/health/taking-care-your-voice —— 提供日常用声及出现嗓音问题时的求助建议。

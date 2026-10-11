@@ -7,7 +7,7 @@
 
 ## 一、理解这项主题
 
-元音的听感跟舌头位置、嘴唇形状、下巴开合都有关系。"衣"（/i/）和"乌"（/u/）听起来不一样，就是因为口型不一样——说"衣服""乌云""阿姨"的时候，你的口舌本来就在不停换形状，这是正常的。
+元音的听感跟舌头位置、嘴唇形状、下巴开合都有关系（Lindblom & Sundberg, 1971）。嘴唇收圆、舌位前后高低、下巴开合，都会移动共振峰的位置——元音听感的变化，本质上是共振峰在动（Lindblom & Sundberg, 1971）。"衣"（/i/）和"乌"（/u/）听起来不一样，就是因为口型不一样——说"衣服""乌云""阿姨"的时候，你的口舌本来就在不停换形状，这是正常的（Lindblom & Sundberg, 1971）。
 
 练习音色的关键是：**别为了追求某种听感，把口型固定死**。字词清楚永远排第一，含混的"好听"没有用。
 
@@ -27,10 +27,10 @@
 4. 回听两个版本：检查"衣服"还清楚吗？整句符合你的偏好吗？说起来费力吗？留下清楚又省力的版本。
 5. 别拿不同元音之间的分数差来评判效果。真想看分数变化，两次必须用同一句完整的话、同样的设备和距离。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **产品实现**：[Pitchee Core · analyzer.cpp](https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/analyzer.cpp)。可查看音高有效帧筛选与音色分计算。
+1. Project Pitchee. (n.d.). analyzer.cpp. project-pitchee/Core. https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/analyzer.cpp —— 可查看音高有效帧筛选与音色分计算。
 
-- **大学教学资源**：University of Sheffield，[Voice Information & Resources](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources)。可查阅音高、共鸣、听感重量及日常表达相关练习。
+2. Lindblom, B. E. F., & Sundberg, J. E. F. (1971). Acoustical consequences of lip, tongue, jaw, and larynx movement. *The Journal of the Acoustical Society of America*, *50*(4), 1167–1179. https://doi.org/10.1121/1.1912750 —— 唇、舌、下巴与喉部动作如何改变元音的声学特性。
 
-- **专业实践资料**：ASHA，[Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)。介绍以个人目标为中心的多维声音与交流支持。
+3. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/ —— 介绍以个人目标为中心的多维声音与交流支持。

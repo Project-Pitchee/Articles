@@ -11,9 +11,9 @@
 
 它的逻辑是这样的：当音高 >165 Hz、自然分 >80、音色分 >50 时，系统会先按普通公式算出基础分 B，再单独算一个候选分 P，最后取两者里高的那个当最终分。只有候选分超过了基础分，这次才算真正"加分"。
 
-举两个例子你就明白了：音色分 90、自然分 90、音高 180 Hz 时，基础分约 87.17，候选分 80，最终分还是 87.17——命中了规则，但一分没加。音色分 80、自然分 100、音高 190 Hz 时，基础分 84，候选分 100，最终分才变成 100。
+举两个例子你就明白了：音色分 90、自然分 90、音高 180 Hz 时，基础分约 87.17，候选分 80，最终分还是 87.17——命中了规则，但一分没加。音色分 80、自然分 100、音高 190 Hz 时，基础分 84，候选分 100，最终分才变成 100。候选分能走多高，看三项里最弱的那一项：t 取音高、自然分、音色分三个完成度里的最小值，哪项离线最远，加成就卡在哪。
 
-所以别把 pass_boost 当成"升级考试通过"。要不要练更长的内容，看三件事：短句是不是已经符合你的目标、说起来省不省力、你有没有这个实际需求。分数只是顺带看一眼。
+所以别把 pass_boost 当成"升级考试通过"。要不要练更长的内容，看三件事：短句是不是已经符合你的目标、说起来省不省力、你有没有这个实际需求（ASHA, n.d.）。分数只是顺带看一眼。
 
 **技术细节**：pass_boost 匹配条件为 F0 > 165 Hz、自然分 > 80、音色分 > 50（S、N 先限制在 0–100）。提升强度 \(t=\min((F_0-165)/25,(N-80)/20,(S-50)/30,1)\)，候选分 \(P=60+40t\)，最终分取 \(\max(B,P)\)；仅当 \(P>B\) 时 score_boosted 为真。基础分的完整定义见本模块《你的综合分是怎么算出来的》。
 
@@ -31,10 +31,10 @@
 4. 想留档的话，用你自己的录音工具存。Pitchee 引导练习的音频是临时保存，结束或换掉就清了，别指望隔天还能回听。
 5. 同一句的 A/B 对比只说明"这次哪种更好"，证明不了全天的水平。加不加长度，看你的需求和身体反应，不看规则名。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **产品实现**：[Pitchee Core · scoring.cpp](https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp)。本文规则与公式按源码核对。
+1. Project Pitchee. (n.d.). scoring.cpp. project-pitchee/Core. https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp —— 本文规则与公式按源码核对。
 
-- **产品说明**：[引导练习、复测比较与可信趋势](https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md)。说明录音检查、A/B 可比性及音频保存范围。
+2. Project Pitchee. (n.d.). Guided practice: 引导练习、复测比较与可信趋势. Pitchee-iOS Docs. https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md —— 说明录音检查、A/B 可比性及音频保存范围。
 
-- **大学教学资源**：University of Sheffield，[Voice Information & Resources](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources)。可查阅音高、共鸣、听感重量及日常表达相关练习。
+3. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/ —— 介绍以个人目标为中心的多维声音与交流支持。

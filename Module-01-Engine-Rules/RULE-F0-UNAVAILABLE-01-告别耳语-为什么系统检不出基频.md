@@ -9,9 +9,9 @@
 
 音高空白，最常见的原因是录音本身，其次才是发声方式。一个个排除就行。
 
-先说发声方式：**耳语基本测不出音高**。耳语靠的是气流噪声，没有稳定的声带周期振动，所以字词听得清清楚楚，音高也可能一片空白。注意轻声和耳语不是一回事——轻声往往还带着一点周期性振动，是能测出音高的。
+先说发声方式：**耳语基本测不出音高**。耳语靠的是气流噪声，没有稳定的声带周期振动，所以字词听得清清楚楚，音高也可能一片空白（Meynadier & Gaydina, 2013）。具体来说，发耳语时声带前部靠拢、后部留一条小缝，气流从这条缝挤过去形成湍流——声音的能量来自这股湍流，而不是声带的周期振动（Meynadier & Gaydina, 2013）。注意轻声和耳语不是一回事——轻声往往还带着一点周期性振动，是能测出音高的（待查）。
 
-再说录音：声音太轻、背景太吵、片段太短、音高忽高忽低，都可能让分析找不到可用的帧。Pitchee 只收置信度大于 0.9、估计音高在 75–600 Hz 之间的帧，这是 App 的筛选条件，不是你的音域标准，别拿它反推自己"出了什么问题"。
+再说录音：声音太轻、背景太吵、片段太短、音高忽高忽低，都可能让分析找不到可用的帧（待查）。Pitchee 只收置信度大于 0.9、估计音高在 75–600 Hz 之间的帧，这是 App 的筛选条件，不是你的音域标准，别拿它反推自己"出了什么问题"。
 
 音高空白时，女性向的计分会回退：基础分和最终分直接取音色分。男性向则是把公式里的音高项按 0 处理。两种回退都只是"没有音高数据时的备用算法"，不会凭空补出一个音高给你。
 
@@ -31,14 +31,16 @@
 2. 轻轻发一个"嗯"，再接"嗯，我知道了"。听听这个"嗯"里有没有能辨出高低的音调，跟纯呼气的声音对比一下——这是在帮你区分"有声"和"耳语"的感觉。
 3. 再按平时说话的方式录一段完整的话。如果这次有音高了，对比两次录音找不同：是音量、距离，还是发声方式变了。
 4. 如果还是空白，就记一笔"这次音高暂不可用"，不用反复加大音量试。转去做不依赖音高的任务，比如回听、整理练习记录。
-5. 只有一种情况要停下来：如果发声本身持续费力、疼痛或嘶哑，那就别再试了，去休息，必要时找专业支持。数据缺失和身体不适是两回事，别混在一起。
+5. 只有一种情况要停下来：如果发声本身持续费力、疼痛或嘶哑，那就别再试了，去休息，必要时找专业支持（NIDCD, n.d.）。数据缺失和身体不适是两回事，别混在一起。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **产品实现**：[Pitchee Core · analyzer.cpp](https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/analyzer.cpp)。可查看音高有效帧筛选与音色分计算。
+1. Meynadier, Y., & Gaydina, Y. (2013). Aerodynamic and durational cues of phonological voicing in whisper. In *Proceedings of Interspeech 2013* (pp. 335–339). https://hal.science/hal-01211117v1 —— 耳语时声带前部内收、后部留一小开口，无周期性振动，噪声来自气流湍流。
 
-- **产品实现**：[Pitchee Core · scoring.cpp](https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp)。本文规则与公式按源码核对。
+2. Project Pitchee. (n.d.). analyzer.cpp. project-pitchee/Core. https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/analyzer.cpp —— 可查看音高有效帧筛选与音色分计算。
 
-- **产品说明**：[引导练习、复测比较与可信趋势](https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md)。说明录音检查、A/B 可比性及音频保存范围。
+3. Project Pitchee. (n.d.). scoring.cpp. project-pitchee/Core. https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp —— 本文规则与公式按源码核对。
 
-- **公共健康资料**：NIDCD，[Taking Care of Your Voice](https://www.nidcd.nih.gov/health/taking-care-your-voice)。提供日常用声及出现嗓音问题时的求助建议。
+4. Project Pitchee. (n.d.). Guided practice: 引导练习、复测比较与可信趋势. Pitchee-iOS Docs. https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md —— 说明录音检查、A/B 可比性及音频保存范围。
+
+5. National Institute on Deafness and Other Communication Disorders. (n.d.). Taking care of your voice. https://www.nidcd.nih.gov/health/taking-care-your-voice —— 提供日常用声及出现嗓音问题时的求助建议。

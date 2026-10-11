@@ -7,9 +7,9 @@
 
 ## 一、理解这项主题
 
-声音可以这么理解：声带振动是"声源"，声道形状决定哪些频率被放大——这就是"滤波器"。共振峰就是声道共振在频谱上留下的峰，按从低到高叫 F1、F2、F3、F4。分析出来的是估计值，不是给声道拍了张照片。
+声音可以这么理解：声带振动是"声源"，声道形状决定哪些频率被放大——这就是"滤波器"（Fant, 1960）。共振峰就是声道共振在频谱上留下的峰，按从低到高叫 F1、F2、F3、F4。分析出来的是估计值，不是给声道拍了张照片。
 
-基频（F0）是声信号每秒重复多少次，音高是你听到的高低——相关，但不是一回事。谐波一般出现在 F0 整数倍的位置，共振峰是另一套东西，频谱上每个尖峰不都是共振峰。拿元音来说：嘴张得越小，F1 往往越低；嘴张大，F1 往上走；F2 跟舌头前后、圆唇有关；F3、F4 还受整个声道形状影响。动一下嘴型，好几个共振峰可能一起变。
+基频（F0）是声信号每秒重复多少次，音高是你听到的高低——相关，但不是一回事。谐波一般出现在 F0 整数倍的位置，共振峰是另一套东西，频谱上每个尖峰不都是共振峰。拿元音来说：嘴张得越小，F1 往往越低；嘴张大，F1 往上走；F2 跟舌头前后、圆唇有关；F3、F4 还受整个声道形状影响（Fant, 1960）。动一下嘴型，好几个共振峰可能一起变。
 
 共振峰分析和 Pitchee 的分数是两套系统：音色分是模型给音色打的分，自然分是模型给"像不像日常说话"打的分，综合分是按产品规则把几个输入拼起来——这些都不是 F1–F4 的替代品。音高高、音色分高、自然分低可以同时出现，但你没法从其中一项推导出另一项。
 
@@ -28,26 +28,27 @@
 | /æ/ | 前部、开口比较大，介于 /ɛ/ 和 /a/ 之间。普通话里没有，得找可靠示范；"哎"是复元音，代替不了。 |
 | /a/ | 低元音，开口大。本文就按这个基本音值用。提醒一下：不同语言里写成 /a/ 的音发法可能不一样，普通话"啊"有时偏中央；研究里写的 /ɑ/ 则是靠后的低元音。比的时候先对好读法，别只看符号像。 |
 
-比较只在"同一个元音的不同次尝试"之间做。/i/ 天生 F1 低 F2 高，/a/ 是另一套配置——这首先是元音本身的差别，不是"谁更女性化"。也别要求所有元音都按 /i/ 的舌形发，字会说不清楚。
+比较只在"同一个元音的不同次尝试"之间做。/i/ 天生 F1 低 F2 高，/a/ 是另一套配置——这首先是元音本身的差别，不是"谁更女性化"（Gelfer & Mikos, 2005）。也别要求所有元音都按 /i/ 的舌形发，字会说不清楚。
 
-还有几个坑：音高越高，谐波隔得越开，能用来估计共振峰的信息就越稀；噪声、录音处理、参数设得不对、元音本身不稳，都会让估计值乱跳、合峰、丢峰。F3、F4 要是认不出来，就写"未确定"，别填 0，也别硬凑四个数。
+还有几个坑：音高越高，谐波隔得越开，能用来估计共振峰的信息就越稀（Boersma & Weenink, n.d.-b）；噪声、录音处理、参数设得不对、元音本身不稳，都会让估计值乱跳、合峰、丢峰。F3、F4 要是认不出来，就写"未确定"，别填 0，也别硬凑四个数。
 
 ## 三、可尝试的方法
 
 1. **先用耳朵。** 挑个熟的元音，舒服的音高音量发短音。轻轻动动唇形或开合，听明暗怎么变；一次只动一样，不挤喉、不刻意定住喉头。
 2. **别把元音发丢。** 回听确认还是那个元音。要是为了凑数字发成了别的音，这次就不算数。
 3. **挑能比的片段。** 在 Praat 里打开录音，找元音中间最稳的那段，掐头去尾，避开滑向别的音的部分。记下用的哪个元音、截的哪一段、这次试了什么，下次好找同样的。
-4. **跑估计、对结果。** Praat 里用 `To Formant (burg)...`，这是 LPC 短时谱建模。把这几个设置都记下来：共振峰搜索上限、最大共振峰数、分析窗长、预加重——"最大共振峰数"是让它拟合整个频段用的，不是你想报 F1–F4 就填 4。然后把估计出来的轨迹跟语图、频谱对着看：是不是一直跟着看得见的共振带走，有没有合峰、乱跳。默认参数只是起点，不熟的话找个懂声学分析的人帮你过一遍。
+4. **跑估计、对结果。** Praat 里用 `To Formant (burg)...`，这是 LPC 短时谱建模（Boersma & Weenink, n.d.-a）。把这几个设置都记下来：共振峰搜索上限、最大共振峰数、分析窗长、预加重——"最大共振峰数"是让它拟合整个频段用的，不是你想报 F1–F4 就填 4。然后把估计出来的轨迹跟语图、频谱对着看：是不是一直跟着看得见的共振带走，有没有合峰、乱跳。默认参数只是起点，不熟的话找个懂声学分析的人帮你过一遍。
 5. **同条件多测几次。** 设备、距离、元音、音高、响度、分析设置都尽量一样，把每次稳定段的估计值和波动都记下来，别只挑最好看的那一帧。如果稍微调下参数结果就大变样，先标"不确定"，回头查方法，别急着下结论说发声变了。
 6. **回到词句。** 把又满意又轻松的那次，带进含这个元音的词里，再用自己的话说说。听听字还清不清楚、整体是不是你要的感觉，嗓子舒不舒服也记上。
 
-孤立元音的分析能帮你描述音色变化，但别直接推到日常说话：性别识别实验里 F0 也在起作用，不同元音结论还不一样。下面引的那篇 2018 年研究，操控的是 F1–F3、用的 /ɑ/；本文的 F4 只是顺手多看一眼，拿那篇研究撑不起 F1–F4 的打分。日常说话还有语调、节奏、别的声音线索和环境，更推不出"识别概率"。
+孤立元音的分析能帮你描述音色变化，但别直接推到日常说话：性别识别实验里 F0 也在起作用，不同元音结论还不一样（Gelfer & Mikos, 2005）。下面引的那篇 2018 年研究，操控的是 F1–F3，用了 /i/、/æ/、/ɑ/、/u/ 四个元音（Gallena et al., 2018）；本文的 F4 只是顺手多看一眼，拿那篇研究撑不起 F1–F4 的打分。日常说话还有语调、节奏、别的声音线索和环境，更推不出"识别概率"。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- [Praat manual：Sound: To Formant (burg)...](https://www.fon.hum.uva.nl/praat/manual/Sound__To_Formant__burg____.html)：共振峰估计和参数选择的官方说明；工具输出要检查，不能直接当解剖测量。
-- [Praat manual：FAQ: Formant analysis](https://www.fon.hum.uva.nl/praat/manual/FAQ__Formant_analysis.html)：讲 LPC 的假设，以及分析设置为什么会让共振峰的数量和位置判读不一样。
-- [International Phonetic Association：Interactive IPA Chart](https://www.internationalphoneticassociation.org/IPAcharts/IPA_charts_TI/IPA_charts_TI.html)：核对 /i/、/u/、/æ/、/a/ 这些元音的音值和舌位分类。
-- [The relative contributions of speaking fundamental frequency and formant frequencies to gender identification based on isolated vowels](https://pubmed.ncbi.nlm.nih.gov/16301101/)：孤立元音实验，结论是 F0 和共振峰要一起看，推不到日常沟通里去。
-- [Gallena 等，2018：Gender Perception After Raising Vowel Fundamental and Formant Frequencies: Considerations for Oral Resonance Research](https://pubmed.ncbi.nlm.nih.gov/28844651/)：在 /i/、/æ/、/ɑ/、/u/ 里操控 F1–F3，讨论跟元音有关的感知结果，没有验证本应用，也没有验证通用的 F1–F4 打分。
-- [ASHA：Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)：把共鸣、音高、沟通方式放进个人化目标里谈；不支持拿单个共振峰窗口去保证性别感知结果。
+1. Fant, G. (1960). *Acoustic Theory of Speech Production*. Mouton. https://openlibrary.org/books/OL16335889M/Acoustic_theory_of_speech_production ——声源–滤波器理论：声带是声源，声道形状决定哪些频率被放大（即共振峰）。
+2. Gelfer, M. P., & Mikos, V. A. (2005). The relative contributions of speaking fundamental frequency and formant frequencies to gender identification based on isolated vowels. *Journal of Voice*, *19*(4), 544–554. https://doi.org/10.1016/j.jvoice.2004.10.006 ——孤立元音实验，结论是 F0 和共振峰要一起看，推不到日常沟通里去。
+3. Gallena, S. J. K., Stickels, B., & Stickels, E. (2018). Gender perception after raising vowel fundamental and formant frequencies: Considerations for oral resonance research. *Journal of Voice*, *32*(5), 592–601. https://doi.org/10.1016/j.jvoice.2017.06.023 ——在 /i/、/æ/、/ɑ/、/u/ 里操控 F1–F3，讨论跟元音有关的感知结果；没有验证本应用，也没有验证通用的 F1–F4 打分。
+4. Boersma, P., & Weenink, D. (n.d.-a). Sound: To Formant (burg)…. Praat manual. https://www.fon.hum.uva.nl/praat/manual/Sound__To_Formant__burg____.html ——共振峰估计（LPC 短时谱建模）和参数选择的官方说明；工具输出要检查，不能直接当解剖测量。
+5. Boersma, P., & Weenink, D. (n.d.-b). FAQ: Formant analysis. Praat manual. https://www.fon.hum.uva.nl/praat/manual/FAQ__Formant_analysis.html ——LPC 的假设，以及分析设置为什么会让共振峰的数量和位置判读不一样。
+6. International Phonetic Association. (n.d.). Interactive IPA Chart. https://www.internationalphoneticassociation.org/IPAcharts/IPA_charts_TI/IPA_charts_TI.html ——核对 /i/、/u/、/æ/、/a/ 这些元音的音值和舌位分类。
+7. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/Practice-Portal/Professional-Issues/Gender-Affirming-Voice-and-Communication/ ——把共鸣、音高、沟通方式放进个人化目标里谈；不支持拿单个共振峰窗口去保证性别感知结果。

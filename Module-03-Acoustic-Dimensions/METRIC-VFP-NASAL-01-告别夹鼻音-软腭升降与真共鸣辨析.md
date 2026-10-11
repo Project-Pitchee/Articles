@@ -7,15 +7,15 @@
 
 ## 一、理解这项主题
 
-鼻腔参不参与，得看在发什么音。发 /m/、/n/、/ŋ/ 这些鼻音时，鼻腔本来就该参与；挨着鼻音的元音被"传染"带点鼻化，也是正常的协同发音。
+鼻腔参不参与，得看在发什么音。发 /m/、/n/、/ŋ/ 这些鼻音时，鼻腔本来就该参与；挨着鼻音的元音被"传染"带点鼻化，也是正常的协同发音（ASHA 共鸣障碍，n.d.）。这种"传染"是自动的：发鼻音时软腭的动作会"漏"到相邻的元音上，不是你没控制好。
 
-"鼻音过重"一般说的是：明明该以口腔共鸣为主的元音，鼻腔掺和太多；"鼻音不足"反过来，是鼻音该有的鼻腔共鸣没了。感冒鼻塞是鼻腔堵了，跟"鼻音过重"是两码事。平时说的"夹鼻音"还经常混着别的听感，光听这个词定不了原因。
+"鼻音过重"一般说的是：明明该以口腔共鸣为主的元音，鼻腔掺和太多；"鼻音不足"反过来，是鼻音该有的鼻腔共鸣没了（ASHA 共鸣障碍，n.d.）。感冒鼻塞是鼻腔堵了，跟"鼻音过重"是两码事。平时说的"夹鼻音"还经常混着别的听感，光听这个词定不了原因。
 
 还有个容易混的：感冒刚好的那几天，鼻腔还肿着，说话自带"瓮声瓮气"，这不叫鼻音过重，叫还没好利索。等鼻子通了再评估，别在感冒期间给自己下结论。
 
 "亮"也不等于鼻腔在漏气。脸上有振动感可以当个个人提示，但它量不了共振峰，也量不了鼻化了多少。音色分同样没在测你的软腭。
 
-再说说"明亮感"到底是什么：很多时候我们说的"亮"，其实是高频谐波比较丰富，跟鼻腔没关系。想变亮，动动唇形、把嘴张开一点，效果通常比折腾软腭直接得多。先动外面，再动里面。
+再说说"明亮感"到底是什么：很多时候我们说的"亮"，其实是高频能量占比高——听觉实验里，人们对声音"亮不亮"的判断跟着频谱质心走，质心越高听着越亮（Siedenburg et al., 2021），跟鼻腔漏不漏气没关系。想变亮，动动唇形、把嘴张开一点，效果通常比折腾软腭直接得多（Fant, 1960）。先动外面，再动里面。
 
 最后说说"夹鼻音"这个词本身：它是个民间说法，涵盖了好几种完全不同的情况——真鼻音重、感冒没好、音色暗、甚至只是麦克风离嘴太近。下次听到这个词，先问"具体是哪种"，别被一个词带偏。
 
@@ -47,7 +47,9 @@
 
 **别在感冒季折腾。** 鼻子不通的时候，所有的鼻音判断都不准。真想调鼻音，等感冒好利索两周后再开始，数据才干净。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- [ASHA：Resonance Disorders](https://www.asha.org/practice-portal/clinical-topics/resonance-disorders/)：区分鼻音过重、鼻音不足和其他共鸣问题，以及相应的评估原则。
-- [ASHA：Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)：支持按个人目标探索共鸣，不把全部鼻腔参与都排除在某一种性别声音之外。
+1. American Speech-Language-Hearing Association. (n.d.). Resonance disorders. ASHA Practice Portal. https://www.asha.org/Practice-Portal/Clinical-Topics/Resonance-Disorders/ ——区分鼻音过重、鼻音不足和其他共鸣问题，以及相应的评估原则。
+2. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/Practice-Portal/Professional-Issues/Gender-Affirming-Voice-and-Communication/ ——支持按个人目标探索共鸣，不把全部鼻腔参与都排除在某一种性别声音之外。
+3. Fant, G. (1960). *Acoustic Theory of Speech Production*. Mouton. https://openlibrary.org/books/OL16335889M/Acoustic_theory_of_speech_production ——唇形、开口度等声道形状变化如何改变共振（共振峰）结构。
+4. Siedenburg, K., Barg, F. M., & Schepker, H. (2021). Adaptive auditory brightness perception. *Scientific Reports*, *11*(1), 21456. https://doi.org/10.1038/s41598-021-00707-7 ——用自然音乐与语音片段的听觉实验："亮"的判断跟着频谱质心走，是"亮≈高频能量占比高"的依据。

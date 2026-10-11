@@ -7,11 +7,11 @@
 
 ## 一、理解这项主题
 
-先说规则本身：当音高 >165 Hz、自然分 ≥50、但音色分 <50 时，女性向会匹配 high_f0_male_cap，最终分最高 59。规则名里的 male 只是代码里的标识符，不是 App 在判断你的性别，别往心里去。
+先说规则本身：当音高 >165 Hz、自然分 ≥50、但音色分 <50 时，女性向会匹配 high_f0_male_cap，最终分最高 59。规则名里的 male 只是代码里的标识符，不是 App 在判断你的性别，不用在意这个命名。
 
 这条规则的意思是：光靠高音高，补不上音色分。所以它会先提示你去听听音色——继续往上飙音高，解不开这个上限。
 
-音高和音色本来就可以不同步。两段录音平均音高差不多，一段听起来明亮，一段听起来厚实，这很常见。音色分是模型给的整体印象分，当个参考就行；自然分高也只说明"听起来像日常说话"，不代表嗓子状态。
+音高和音色本来就可以不同步：听者判断声音时同时参考基频和共振峰（共鸣）两套线索，在连续说话里，共振峰甚至是更相关的那一套（Gelfer & Bennett, 2013）。两段录音平均音高差不多，一段听起来明亮，一段听起来厚实，这很常见。音色分是模型给的整体印象分，当个参考就行；自然分高也只说明"听起来像日常说话"，不代表嗓子状态。
 
 **技术细节**：high_f0_male_cap 匹配条件为 F0 > 165 Hz、自然分 ≥ 50、音色分 < 50，最终分上限 59（实际可能更低）。
 
@@ -27,12 +27,14 @@
 2. 轻轻对比"衣""啊""乌"三个元音，听听音色怎么变。它们本来就需要不同口型，不用把所有元音固定成一个形状。
 3. 如果其中某种听感你有兴趣，在"你好"的开头试着接近它，再把整句说完。每个字都要听得清，口舌跟着字词自然动。
 4. 回听原版和尝试版，比较"你""好"两个字的音色，看句子是不是还说得清楚。听不出差别就记"这次没听出来"，很正常。
-5. 别用这些方法去"折腾喉头"：不用手压，不用吞咽保持，不用刻意挤窄咽部。目标是找到喜欢的听感，不是跟算法较劲。
+5. 别用这些方法去"折腾喉头"：不用手压，不用吞咽保持，不用刻意挤窄咽部（ASHA, n.d.）。目标是找到喜欢的听感，不是跟算法较劲。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **产品实现**：[Pitchee Core · scoring.cpp](https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp)。本文规则与公式按源码核对。
+1. Project Pitchee. (n.d.). scoring.cpp. project-pitchee/Core. https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp —— 本文规则与公式按源码核对。
 
-- **产品实现**：[Pitchee Core · analyzer.cpp](https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/analyzer.cpp)。可查看音高有效帧筛选与音色分计算。
+2. Project Pitchee. (n.d.). analyzer.cpp. project-pitchee/Core. https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/analyzer.cpp —— 可查看音高有效帧筛选与音色分计算。
 
-- **大学教学资源**：University of Sheffield，[Voice Information & Resources](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources)。可查阅音高、共鸣、听感重量及日常表达相关练习。
+3. Gelfer, M. P., & Bennett, Q. E. (2013). Speaking fundamental frequency and vowel formant frequencies: Effects on perception of gender. *Journal of Voice*, *27*(5), 556–566. https://doi.org/10.1016/j.jvoice.2012.11.008 —— 基频与共振峰是两套相对独立的性别感知线索，音高相同的情况下共鸣仍可不同。
+
+4. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/ —— 介绍以个人目标为中心的多维声音与交流支持。

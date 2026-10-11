@@ -7,7 +7,7 @@
 
 ## 一、理解这项主题
 
-声音给人的整体印象，是音高、音色、语调、清晰度、表达方式一起作用的结果，音高只是其中之一。定下自己喜欢的音高之后，照样可以玩音色、语调和表达——女性、男性、非二元，每种性别里都有很多种说话风格，没有统一模板。
+声音给人的整体印象，是音高、音色、语调、清晰度、表达方式一起作用的结果，音高只是其中之一（Leung et al., 2018）。那篇系统综述本来就是写给临床工作者的：定训练目标时，除了音高，构音和韵律也值得放进清单（Leung et al., 2018）。定下自己喜欢的音高之后，照样可以玩音色、语调和表达——女性、男性、非二元，每种性别里都有很多种说话风格，没有统一模板（ASHA, n.d.）。
 
 产品边界要单独说清楚：在女性向规则里，只要有效平均音高 ≤165 Hz，自然分 ≥50 的最终分最高 59，自然分 <50 的最高 20，145–165 Hz 也一样。这些上限只说明软件怎么计分，不否定你对声音的满意度。男性向是另一套公式。
 
@@ -27,10 +27,12 @@
 4. 下次想换重点，就换停顿或音色，每次只动一项。口舌和句尾语调跟着意思自然走。
 5. 想听听别人意见时，问信任的人一个具体问题，比如"这两版哪版更像我想表达的轻松语气？"——比笼统问"我声音合格吗"有用得多。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **产品实现**：[Pitchee Core · scoring.cpp](https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp)。本文规则与公式按源码核对。
+1. Project Pitchee. (n.d.). scoring.cpp. project-pitchee/Core. https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp —— 本文规则与公式按源码核对。
 
-- **专业实践资料**：ASHA，[Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)。介绍以个人目标为中心的多维声音与交流支持。
+2. Leung, Y., Oates, J., & Chan, S. P. (2018). Voice, articulation, and prosody contribute to listener perceptions of speaker gender: A systematic review and meta-analysis. *Journal of Speech, Language, and Hearing Research*, *61*(2), 266–297. https://doi.org/10.1044/2017_JSLHR-S-17-0067 —— 嗓音、构音与韵律共同影响听者对说话人的感知，不只看音高。
 
-- **产品说明**：[引导练习、复测比较与可信趋势](https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md)。说明录音检查、A/B 可比性及音频保存范围。
+3. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/ —— 介绍以个人目标为中心的多维声音与交流支持。
+
+4. Project Pitchee. (n.d.). Guided practice: 引导练习、复测比较与可信趋势. Pitchee-iOS Docs. https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md —— 说明录音检查、A/B 可比性及音频保存范围。
