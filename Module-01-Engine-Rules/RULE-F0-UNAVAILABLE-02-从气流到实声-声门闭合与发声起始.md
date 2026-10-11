@@ -7,7 +7,7 @@
 
 ## 一、理解这项主题
 
-发声起始，就是从"没出声"过渡到"出声"的那一下。有人需要先憋一口气再冲出来，有人带一点气息轻轻带出来——听感不同，没有标准答案。你要找的只是一个"开始得容易、字还清楚"的方式。
+发声起始，就是从"没出声"过渡到"出声"的那一下。有人需要先憋一口气再冲出来，有人带一点气息轻轻带出来——听感不同，没有标准答案。你要找的只是一个"开始得容易、字还清楚"的方式（ASHA, n.d.）。
 
 如果这篇是系统在你音高空白后推荐的，先别急着练。f0_unavailable 首先说明"这次分析没有拿到可用音高"，第一步永远是检查录音（看本模块《音高显示空白：先检查录音》）。确认录音没问题、你自己也想练练起音，再往下看。
 
@@ -15,7 +15,7 @@
 
 用平时的方式说一句"嗯，我准备好了"，留意开始的那一下：是不是要先憋住气？是不是突然用力"推"出来的？记下这个感觉，它就是你的对照组。
 
-另外分清两件事：如果已经明显疼痛、持续嘶哑或呼吸困难，别用反复起音来"测试"自己，停下来休息，呼吸困难就去看医生。只是想找个轻松开头的话，继续往下。
+另外分清两件事：如果已经明显疼痛、持续嘶哑或呼吸困难，别用反复起音来"测试"自己，停下来休息，呼吸困难就去看医生（NIDCD, n.d.）。只是想找个轻松开头的话，继续往下。
 
 ## 三、可尝试的方法
 
@@ -25,12 +25,12 @@
 4. 哼"嗯"不舒服就跳过，直接用短词试："好""知道了"都可以。不用先咳嗽、憋气，也不用刻意收紧什么。
 5. 留下那个"容易完成、自己也喜欢"的版本。如果试的过程中开始费力、头晕或不舒服，就停。一次顺利的起音只是这次的体验，不用把它当成标准反复验证。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **产品实现**：[Pitchee Core · scoring.cpp](https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp)。本文规则与公式按源码核对。
+1. Project Pitchee. (n.d.). scoring.cpp. project-pitchee/Core. https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp —— 本文规则与公式按源码核对。
 
-- **产品说明**：[引导练习、复测比较与可信趋势](https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md)。说明录音检查、A/B 可比性及音频保存范围。
+2. Project Pitchee. (n.d.). Guided practice: 引导练习、复测比较与可信趋势. Pitchee-iOS Docs. https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md —— 说明录音检查、A/B 可比性及音频保存范围。
 
-- **专业实践资料**：ASHA，[Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)。介绍以个人目标为中心的多维声音与交流支持。
+3. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/ —— 介绍以个人目标为中心的多维声音与交流支持。
 
-- **公共健康资料**：NIDCD，[Taking Care of Your Voice](https://www.nidcd.nih.gov/health/taking-care-your-voice)。提供日常用声及出现嗓音问题时的求助建议。
+4. National Institute on Deafness and Other Communication Disorders. (n.d.). Taking care of your voice. https://www.nidcd.nih.gov/health/taking-care-your-voice —— 提供日常用声及出现嗓音问题时的求助建议。

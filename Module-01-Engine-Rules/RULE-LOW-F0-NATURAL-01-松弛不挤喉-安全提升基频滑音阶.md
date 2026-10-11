@@ -11,7 +11,7 @@
 
 但 165 Hz 只是代码里的分支线，不是"人人都必须越过"的训练线。提不提高音高，看三件事：你喜不喜欢这个声音、说起来方不方便、你的使用场景需不需要。低于这条线不代表你的身体需要被"修正"。
 
-另外，动音高常常会连带改变音色和表达感觉，所以练习时把听感、省力程度和分数一起看，别只盯着数字。
+另外，动音高常常会连带改变音色和表达感觉：基频和共振峰在听感里是互相牵连的两套线索，音高一动，听者对音色的整体判断也可能跟着变（Gelfer & Bennett, 2013）。所以练习时把听感、省力程度和分数一起看，别只盯着数字。
 
 **技术细节**：low_f0_natural_cap 匹配条件为有效 F0 ≤ 165 Hz 且自然分 ≥ 50，最终分上限 59。自然分达到 50 只说明"听起来像日常说话"，不代表发声健康或没有压嗓。
 
@@ -19,7 +19,7 @@
 
 用平时的方式说一句话，感觉一下：开口容易吗？能一口气舒服说完吗？把这个状态记下来当基准。
 
-如果 App 有音高显示，允许它跟着普通话声调起伏——日常说话本来就不是一条直线，别追求"平稳"。
+如果 App 有音高显示，允许它跟着普通话声调起伏——日常说话本来就不是一条直线，别追求"平稳"（Xu, 1997）。
 
 ## 三、可尝试的方法
 
@@ -29,10 +29,12 @@
 4. 用原来的起点和新的起点各录一遍"我知道了"，比较：哪个更符合你的偏好？哪个更清楚、更省力？
 5. 新起点又喜欢又省力，再换一句新话试试能不能用上。如果需要一直用力维持，就回到原来的方式，休息一下。今天到这也行。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **产品实现**：[Pitchee Core · scoring.cpp](https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp)。本文规则与公式按源码核对。
+1. Project Pitchee. (n.d.). scoring.cpp. project-pitchee/Core. https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp —— 本文规则与公式按源码核对。
 
-- **大学辅助练习工具**：TruVox，[Help](https://ceas5.uc.edu/transvoice/Help)。当前主要面向美式英语，页面注明其为原型、不能作为完整训练方案。
+2. Gelfer, M. P., & Bennett, Q. E. (2013). Speaking fundamental frequency and vowel formant frequencies: Effects on perception of gender. *Journal of Voice*, *27*(5), 556–566. https://doi.org/10.1016/j.jvoice.2012.11.008 —— 基频与共振峰相互作用，共同影响性别感知；动音高时音色听感常随之变化。
 
-- **大学教学资源**：University of Sheffield，[Voice Information & Resources](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources)。可查阅音高、共鸣、听感重量及日常表达相关练习。
+3. Xu, Y. (1997). Contextual tonal variations in Mandarin. *Journal of Phonetics*, *25*(1), 61–83. https://doi.org/10.1006/jpho.1996.0034 —— 普通话声调的基频轮廓随语境起伏，日常说话的音高本就不是直线。
+
+4. TruVox. (n.d.). Help. https://ceas5.uc.edu/transvoice/Help —— 当前主要面向美式英语，页面注明其为原型、不能作为完整训练方案。

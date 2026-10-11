@@ -7,9 +7,9 @@
 
 ## 一、理解这项主题
 
-M1、M2 是描述声带振动方式不同的术语。"胸声""头声""假声"是教学里的俗称，不同体系叫法不完全一样，别硬往 M1、M2 上套。
+M1、M2 描述的是声带振动时参与的组织不同：M1 是声带整体振动，M2 主要靠边缘振动（Roubeau et al., 2009）。"胸声""头声""假声"是教学里的俗称，不同体系叫法不完全一样，别硬往 M1、M2 上套（Roubeau et al., 2009）。
 
-声音听起来轻还是厚，除了振动方式，还跟音高、响度、口型、表达方式有关。光靠听，分不清到底是哪种机制——M1、M2 本身也没有好坏、男女之分。
+声音听起来轻还是厚，除了振动方式，还跟音高、响度、口型、表达方式有关（Leung et al., 2018）。光靠听，分不清到底是哪种机制（Roubeau et al., 2009）——M1、M2 本身也没有好坏、男女之分。
 
 Pitchee 现在没有声区分类功能，自然分和音色分也量不了这个。所以这篇不讲"诊断"，只讲体验：切换时什么感觉是正常的，什么时候该停。
 
@@ -26,10 +26,10 @@ Pitchee 现在没有声区分类功能，自然分和音色分也量不了这个
 3. 按平时说话的方式再说一遍"午饭吃什么？"，比较两个版本：字清楚吗？音量好控制吗？费力吗？
 4. 如果喜欢的声音暂时只能发短音，那就先停在短词上。别因为知道了术语，就硬要把一个"机制"延长到整句话。疼了、越来越费力了就停。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **研究论文**：Roubeau, B., Henrich, N., & Castellengo, M. (2009). [Laryngeal Vibratory Mechanisms: The Notion of Vocal Register Revisited](https://pubmed.ncbi.nlm.nih.gov/18538982/)。讨论喉部振动机制与声区概念。
+1. Roubeau, B., Henrich, N., & Castellengo, M. (2009). Laryngeal vibratory mechanisms: The notion of vocal register revisited. *Journal of Voice*, *23*(4), 425–438. https://doi.org/10.1016/j.jvoice.2007.10.014 —— 讨论喉部振动机制与声区概念：M1–M4 按声带振动的生理机制划分。
 
-- **大学教学资源**：University of Sheffield，[Voice Information & Resources](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources)。可查阅音高、共鸣、听感重量及日常表达相关练习。
+2. Leung, Y., Oates, J., & Chan, S. P. (2018). Voice, articulation, and prosody contribute to listener perceptions of speaker gender: A systematic review and meta-analysis. *Journal of Speech, Language, and Hearing Research*, *61*(2), 266–297. https://doi.org/10.1044/2017_JSLHR-S-17-0067 —— 嗓音、构音与韵律共同影响听者对说话人的感知。
 
-- **专业实践资料**：ASHA，[Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)。介绍以个人目标为中心的多维声音与交流支持。
+3. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/ —— 介绍以个人目标为中心的多维声音与交流支持。

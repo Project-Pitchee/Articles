@@ -9,7 +9,7 @@
 
 "觉得紧"是你的身体感受，"自然分"是模型对录音的印象分，这是两码事。分高分低都说明不了嗓子状态，所以放松这件事，只跟着你的感觉走，不看分数。
 
-哈欠—叹息这类提示在嗓音教学里很常见，原理是借一个"不用力"的动作，帮你找到放松的发声感觉。但它不是处方：哈欠的提示如果让你更用力，直接跳过，纯休息也一样有效。
+哈欠—叹息这类提示在嗓音教学里很常见（Boone & McFarlane, 1993），原理是借一个"不用力"的动作，帮你找到放松的发声感觉。研究里用鼻内镜看过：做这个动作时喉的位置下降、咽腔变宽，整个声道处在比较放松的构型（Boone & McFarlane, 1993）。但它不是处方：哈欠的提示如果让你更用力，直接跳过，纯休息也一样有效。
 
 放松的目标很小：回到普通短句，说起来不费力就行。不需要追求"喉头下降了多少"这种变化，更不用伸手去摸、去调喉头的位置。
 
@@ -36,9 +36,9 @@
 
 **第一步：停下来，换个姿势。** 放下"今天要把练习做完"的念头。坐下或站稳，肩膀和下巴回到舒服的位置。如果刚才一直低头看手机，慢慢左右转头、小幅度点头，动作要慢，不用力拉。
 
-**第二步：喝口水，松开下巴。** 喝一小口常温水，让喉咙做一次自然吞咽。找到"咬紧牙关"的感觉：刻意让上下牙分开一条缝，保持几秒，再放松，重复两三次。
+**第二步：喝口水，松开下巴。** 喝一小口常温水（Behlau & Oliveira, 2009），让喉咙做一次自然吞咽。找到"咬紧牙关"的感觉：刻意让上下牙分开一条缝，保持几秒，再放松，重复两三次。
 
-**第三步：试试轻叹。** 如果愿意，想象一个很小的哈欠感，然后发一个短而轻的叹息，让它自然结束。不压低喉头，不拖长气息，声音小一点没关系。如果这个想象反而让你张大嘴、绷紧脖子，跳过这步，直接休息——安静坐着也一样有效。
+**第三步：试试轻叹。** 如果愿意，想象一个很小的哈欠感，然后发一个短而轻的叹息，让它自然结束。不压低喉头，不拖长气息，声音小一点没关系。如果这个想象反而让你张大嘴、绷紧脖子，跳过这步，直接休息——安静坐着也一样有效（Boone & McFarlane, 1993）。
 
 **第四步：说一句熟悉的话检验。** 觉得能舒服说话了，说"我先休息一会儿"，听听起音顺不顺、说完累不累。还费力就继续休息，别加量。这句检验的话每次都用同一句，方便对比。
 
@@ -46,14 +46,16 @@
 
 **如果身边有信任的人。** 让他听听你放松前后的同一句话，只问一个具体问题："哪版听起来更松？"别人的耳朵有时比你自己的感觉更准。但别问"我声音怎么样"这种太大的问题，不好回答。
 
-几个不要：疼的时候别做"吹通"式的大气流练习；别自己揉、捏、摇喉头；也别因为"上次这样做有用"就每次硬来——状态不同，方法也要换。
+几个不要：疼的时候别做"吹通"式的大气流练习（Behlau & Oliveira, 2009）；别自己揉、捏、摇喉头；也别因为"上次这样做有用"就每次硬来——状态不同，方法也要换。
 
-如果紧、疼、哑反复出现，或者一次比一次重，记下什么时候发生、做什么事情时发生，带着记录去看耳鼻喉科或有嗓音经验的专业人员。这比在网上找偏方靠谱。
+如果紧、疼、哑反复出现，或者一次比一次重，记下什么时候发生、做什么事情时发生，带着记录去看耳鼻喉科或有嗓音经验的专业人员（NIDCD, n.d.）。这比在网上找偏方靠谱。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **专业实践资料**：ASHA，[Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)。介绍以个人目标为中心的多维声音与交流支持。
+1. Boone, D. R., & McFarlane, S. C. (1993). A critical view of the yawn-sigh as a voice therapy technique. *Journal of Voice*, *7*(1), 75–80. https://doi.org/10.1016/S0892-1997(05)80114-6 —— 鼻内镜下观察到哈欠—叹息时喉位下降、咽腔扩大；但受试者反应不一，有人做不出标准动作。
 
-- **大学教学资源**：University of Sheffield，[Voice Information & Resources](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources)。可查阅音高、共鸣、听感重量及日常表达相关练习。
+2. Behlau, M., & Oliveira, G. (2009). Vocal hygiene for the voice professional. *Current Opinion in Otolaryngology & Head and Neck Surgery*, *17*(3), 149–154. https://doi.org/10.1097/MOO.0b013e32832af105 —— 发声卫生综述：补水与休息是少数被证实与治疗效果正相关的成分，同时强调减少发声创伤行为。
 
-- **公共健康资料**：NIDCD，[Taking Care of Your Voice](https://www.nidcd.nih.gov/health/taking-care-your-voice)。提供日常用声及出现嗓音问题时的求助建议。
+3. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/ —— 介绍以个人目标为中心的多维声音与交流支持。
+
+4. National Institute on Deafness and Other Communication Disorders. (n.d.). Taking care of your voice. https://www.nidcd.nih.gov/health/taking-care-your-voice —— 提供日常用声及出现嗓音问题时的求助建议。

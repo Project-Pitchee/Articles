@@ -7,15 +7,15 @@
 
 ## 一、理解这项主题
 
-短录音是个"实验室"：安静、就一句、注意力全在声音上。真实的一天是"野外"：要思考、要接话、有情绪、有噪音，还得看人脸色。实验室里 90 分，不等于野外 90 分——迁移要单独练，这不丢人，人人如此。
+短录音是个"实验室"：安静、就一句、注意力全在声音上。真实的一天是"野外"：要思考、要接话、有情绪、有噪音，还得看人脸色。实验室里 90 分，不等于野外 90 分——迁移要单独练，这不丢人，人人如此（Gelfer & Tice, 2013）。
 
-还有一个观察指标：**这句话花了你多少注意力**。刚开始，每个字都要"端着"；慢慢地，注意力可以分给对方和内容了，声音还在——这就是"稳了"的信号。旧的声音也不用"消灭"：有人想稳定用一种，有人喜欢按场景切换，都是正当目标，选你舒服的。
+还有一个观察指标：**这句话花了你多少注意力**。刚开始，每个字都要"端着"；慢慢地，注意力可以分给对方和内容了，声音还在——这就是"稳了"的信号（Maas et al., 2008）。旧的声音也不用"消灭"：有人想稳定用一种，有人喜欢按场景切换，都是正当目标，选你舒服的。
 
 ## 二、练习前的观察
 
-把你最近真实遇到的场景列出来，自己排个序。从易到难没有标准答案：跟熟人聊天对有的人最难（怕被笑），打电话对有的人最难（没有表情辅助）。隐私、对方态度、安不安全，比任何"练习等级表"都重要——先把让你不安全的场景划掉。
+把你最近真实遇到的场景列出来，自己排个序。从易到难没有标准答案：跟熟人聊天对有的人最难（怕被笑），打电话对有的人最难（没有表情辅助）。隐私、对方态度、安不安全，比任何"练习等级表"都重要——先把让你不安全的场景划掉（Coleman et al., 2022）。
 
-再分清两种"掉链子"：一是顾着想内容，忘了提示——这是迁移问题，换简单材料练就行；二是越说越费力、甚至开始疼——这是负荷问题，先减量，持续或者反复出现就去看医生。
+再分清两种"掉链子"：一是顾着想内容，忘了提示——这是迁移问题，换简单材料练就行；二是越说越费力、甚至开始疼——这是负荷问题，先减量，持续或者反复出现就去看医生（NIDCD, n.d.）。
 
 ## 三、可尝试的方法
 
@@ -35,7 +35,7 @@
 
 **记"功能分"，不只记"印象分"。** 每次练完写四行：场景是什么／说下来舒不舒服／对方听清了吗／我想不想再来一次。连续一周都是"舒服、听清、想再来"，这个场景就算拿下了，再开下一个。
 
-累了就歇：走近一点说、选安静的地方、用扩音，都是正当手段，不是作弊。长期用声，拼的是续航，不是爆发。
+累了就歇：走近一点说、选安静的地方、用扩音，都是正当手段，不是作弊（Roy et al., 2002）。长期用声，拼的是续航，不是爆发。
 
 **电话专项。** 打电话没有表情和手势帮忙，对方只能靠声音判断你的状态，先从短电话开始：快递、外卖、订位，三句话内结束。打之前把要说的写下来——"你好，我是 X 号订单，约明天下午送"——照着说不丢人。电话里听不清就直说"信号不好，麻烦再说一遍"，别硬撑着喊。
 
@@ -45,9 +45,13 @@
 
 **卡在某个场景上不去怎么办。** 先退一级：电话打不利索，退回"短回应"练一周；短回应也费劲，退回"问候"。退级不是失败，是给这个场景找更合适的入口。如果退到最简单的"问候"还是难受，停下来想想：是声音的问题，还是这个场景本身让你紧张（比如害怕被评价）？后者的话，换个更安全的场景先练。
 
-**别跟别人的进度比。** 有人三周就敢打电话，有人两个月还在练问候，都正常。影响速度的不只是"练得勤不勤"，还有生活场景复杂不复杂、周围人配不配合。你的清单是按你自己的生活排的，别人的不适用。
+**别跟别人的进度比。** 有人三周就敢打电话，有人两个月还在练问候，都正常（Davies et al., 2015）。影响速度的不只是"练得勤不勤"，还有生活场景复杂不复杂、周围人配不配合。你的清单是按你自己的生活排的，别人的不适用。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- [ASHA：Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)：美国言语语言听力协会的性别肯定嗓音实践门户，讨论真实场景迁移、目标变化和声音灵活性，没有按本应用分数划分练习阶段。
-- [NIDCD：Taking Care of Your Voice](https://www.nidcd.nih.gov/health/taking-care-your-voice)：美国国家耳聋与其他交流障碍研究所的护嗓指南，提供休息、降低环境用声负担及声音问题就医的建议。
+1. Gelfer, M. P., & Tice, R. M. (2013). Perceptual and acoustic outcomes of voice therapy for male-to-female transgender individuals immediately after therapy and 15 months later. *Journal of Voice*, *27*(3), 335–347. https://doi.org/10.1016/j.jvoice.2012.07.009
+2. Maas, E., Robin, D. A., Austermann Hula, S. N., Freedman, S. E., Wulf, G., Ballard, K. J., & Schmidt, R. A. (2008). Principles of motor learning in treatment of motor speech disorders. *American Journal of Speech-Language Pathology*, *17*(3), 277–298. https://doi.org/10.1044/1058-0360(2008/025)
+3. Roy, N., Weinrich, B., Gray, S. D., Tanner, K., Toledo, S. W., Dove, H., Corbin-Lewis, K., & Stemple, J. C. (2002). Voice amplification versus vocal hygiene instruction for teachers with voice disorders: A treatment outcomes study. *Journal of Speech, Language, and Hearing Research*, *45*(4), 625–638. https://doi.org/10.1044/1092-4388(2002/050)
+4. Coleman, E., et al. (2022). Standards of care for the health of transgender and gender diverse people, version 8. *International Journal of Transgender Health*, *23*(Suppl 1), S1–S260. https://doi.org/10.1080/26895269.2022.2100644
+5. Davies, S., Papp, V. G., & Antoni, C. (2015). Voice and communication change for gender nonconforming individuals: Giving voice to the person inside. *International Journal of Transgenderism*, *16*(3), 117–159. https://doi.org/10.1080/15532739.2015.1075931
+6. National Institute on Deafness and Other Communication Disorders. (n.d.). Taking care of your voice. https://www.nidcd.nih.gov/health/taking-care-your-voice

@@ -13,13 +13,13 @@
 
 低分也可能出现在完全正常的情况下，比如你故意用低音读了一段角色台词。分数解释不了具体成因，别把它当成"我练得不够"的证据。推荐跟你的感觉对不上，直接跳过就行。
 
-**技术细节**：low_f0_stylized_cap 匹配条件为有效 F0 ≤ 165 Hz 且自然分 < 50，最终分上限 20。自然分量的是听感，不是身体状态，定位不了嗓音问题。
+**技术细节**：low_f0_stylized_cap 匹配条件为有效 F0 ≤ 165 Hz 且自然分 < 50，最终分上限 20。自然分只描述录音听起来像不像日常说话：模型分析的是声学特征，不检查声带、也不判断发声方式——嗓音健不健康，分数回答不了，身体信号和专业检查才算数（NIDCD, n.d.）。
 
 ## 二、练习前的观察
 
 先看录音本身：文本读全了吗？录得清楚吗？设备和环境跟上次一样吗？排除这些再说。
 
-身体感受单独记：疼吗？说起来明显费力吗？有没有持续嘶哑？有的话先减量、休息，必要时找专业评估——这跟分数高低没关系。呼吸困难就直接求助，别再录音确认了。
+身体感受单独记：疼吗？说起来明显费力吗？有没有持续嘶哑？有的话先减量、休息，必要时找专业评估——这跟分数高低没关系（NIDCD, n.d.）。呼吸困难就直接求助，别再录音确认了（NIDCD, n.d.）。
 
 ## 三、可尝试的方法
 
@@ -29,10 +29,10 @@
 4. 还想试音高的话，下次单独练，每次用同样的句子比。也可以就保持现在的音高，继续打磨表达。
 5. 怎么试都费力或不舒服，就结束今天，减少用声。回到熟悉的声音，完全没问题。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **产品实现**：[Pitchee Core · scoring.cpp](https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp)。本文规则与公式按源码核对。
+1. Project Pitchee. (n.d.). scoring.cpp. project-pitchee/Core. https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp —— 本文规则与公式按源码核对。
 
-- **产品说明**：[引导练习、复测比较与可信趋势](https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md)。说明录音检查、A/B 可比性及音频保存范围。
+2. Project Pitchee. (n.d.). Guided practice: 引导练习、复测比较与可信趋势. Pitchee-iOS Docs. https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md —— 说明录音检查、A/B 可比性及音频保存范围。
 
-- **公共健康资料**：NIDCD，[Taking Care of Your Voice](https://www.nidcd.nih.gov/health/taking-care-your-voice)。提供日常用声及出现嗓音问题时的求助建议。
+3. National Institute on Deafness and Other Communication Disorders. (n.d.). Taking care of your voice. https://www.nidcd.nih.gov/health/taking-care-your-voice —— 提供日常用声及出现嗓音问题时的求助建议。

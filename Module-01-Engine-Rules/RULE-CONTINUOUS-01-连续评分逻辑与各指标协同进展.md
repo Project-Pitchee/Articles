@@ -9,11 +9,11 @@
 
 你的综合分由三个输入算出来：**音色分**、**自然分**、**音高**。先说清它们各在量什么：
 
-- **音色分**：模型给你的音色打的分，越高表示越接近"女性向参考特征"。当个参考就行，具体练什么还是以你的耳朵和目标为准。
+- **音色分**：模型给你的音色打的分，越高表示越接近"女性向参考特征"。当个参考就行，具体练什么还是以你的耳朵和目标为准（ASHA, n.d.）。
 - **自然分**：模型判断这段录音听起来像不像日常说话。分低不代表嗓子有问题——一段音色明亮、音高偏高但朗读腔很重的录音，就会音色分高、自然分低，这很正常。
 - **音高（F0）**：检测到的平均基频，单位是 Hz，只用来辅助看音高。
 
-女性向的权重是：音色分占 50%、自然分 20%、音高 15%，剩下 15% 看三项一起的表现。这个配比是产品设计时定的，不是"人听声音辨性别时各占多少"的科学结论，别拿它当生理依据。
+女性向的权重是：音色分占 50%、自然分 20%、音高 15%，剩下 15% 看三项一起的表现——也就是把三项得分相乘的那一项：三项都高时有额外加成，哪一项掉队，这项加成也跟着缩水。这个配比是产品设计时定的，不是"人听声音辨性别时各占多少"的科学结论，别把它当成生理学上的结论。
 
 还有几个容易误解的点：
 
@@ -51,10 +51,10 @@
 3. 先回听哪版更符合目标、哪版说起来更省力，再看分数。把"听感更好但分数没涨"也如实记下来——这条记录比分数有用。
 4. 下次用同样的句子再比一次；再找一次真实对话，看看这种说法用不用得上。练习记录和日常使用是两回事，分开看。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **产品实现**：[Pitchee Core · scoring.cpp](https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp)。本文规则与公式按源码核对。
+1. Project Pitchee. (n.d.). scoring.cpp. project-pitchee/Core. https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp —— 本文规则与公式按源码核对。
 
-- **产品说明**：[引导练习、复测比较与可信趋势](https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md)。说明录音检查、A/B 可比性及音频保存范围。
+2. Project Pitchee. (n.d.). Guided practice: 引导练习、复测比较与可信趋势. Pitchee-iOS Docs. https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md —— 说明录音检查、A/B 可比性及音频保存范围。
 
-- **专业实践资料**：ASHA，[Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)。介绍以个人目标为中心的多维声音与交流支持。
+3. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/ —— 介绍以个人目标为中心的多维声音与交流支持。

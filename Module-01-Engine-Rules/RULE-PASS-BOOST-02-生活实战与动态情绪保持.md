@@ -17,7 +17,7 @@ pass_boost 只是算法里的一个分支，命中它跟"可以在生活中用�
 
 先选好场合和对象：跟熟人聊可能更放松，也可能因为太熟反而放不开——按你的实际情况来，没有统一的"难度阶梯"。
 
-笑声、叹息这些，想探索再探索，不想就先放着。咳嗽和打喷嚏是保护动作，别为了声音好听去憋着、改音高，更别练"替代咳嗽"。老咳嗽、老清嗓的话，另找原因，别在这篇里解决。
+笑声、叹息这些，想探索再探索，不想就先放着。咳嗽和打喷嚏是保护动作（Canning et al., 2014）：咳嗽时声门先关闭蓄压、再突然打开，高速气流把气道里的异物和分泌物带出来。别为了声音好听去憋着、改音高，更别练"替代咳嗽"。老咳嗽、老清嗓的话，另找原因，别在这篇里解决（NIDCD, n.d.）。
 
 ## 三、可尝试的方法
 
@@ -27,12 +27,14 @@ pass_boost 只是算法里的一个分支，命中它跟"可以在生活中用�
 4. 想试试笑声，从真实的开心反应开始，别扶着喉头固定位置，更别要求"某种笑声才对"。
 5. 聊完记三件事：意思表达清楚了吗？符合你自己吗？费力吗？再记一句"哪句最顺、哪句最费劲"，下次从费劲的地方继续。累了、不舒服就休息。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-- **产品实现**：[Pitchee Core · scoring.cpp](https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp)。本文规则与公式按源码核对。
+1. Project Pitchee. (n.d.). scoring.cpp. project-pitchee/Core. https://github.com/project-pitchee/Core/blob/e84d9c9a22401f5f25504a2e4348e50ed2db00bf/src/scoring.cpp —— 本文规则与公式按源码核对。
 
-- **专业实践资料**：ASHA，[Gender Affirming Voice and Communication](https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/)。介绍以个人目标为中心的多维声音与交流支持。
+2. Canning, B. J., Chang, A. B., Bolser, D. C., Smith, J. A., Mazzone, S. B., McGarvey, L., & CHEST Expert Cough Panel. (2014). Anatomy and neurophysiology of cough: CHEST Guideline and Expert Panel report. *Chest*, *146*(6), 1633–1648. https://doi.org/10.1378/chest.14-1481 —— 咳嗽是气道重要的保护性反射，负责清除误吸物、分泌物与刺激物。
 
-- **大学教学资源**：University of Sheffield，[Voice Information & Resources](https://sites.google.com/sheffield.ac.uk/transvoiceandcommunicationcafe/voice-information-resources)。可查阅音高、共鸣、听感重量及日常表达相关练习。
+3. American Speech-Language-Hearing Association. (n.d.). Gender affirming voice and communication. ASHA Practice Portal. https://www.asha.org/practice-portal/professional-issues/gender-affirming-voice-and-communication/ —— 介绍以个人目标为中心的多维声音与交流支持。
 
-- **产品说明**：[引导练习、复测比较与可信趋势](https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md)。说明录音检查、A/B 可比性及音频保存范围。
+4. Project Pitchee. (n.d.). Guided practice: 引导练习、复测比较与可信趋势. Pitchee-iOS Docs. https://github.com/project-pitchee/Pitchee-ios/blob/61454c9d9cc5589073e85b42a3f1f0f5cdb0924d/Docs/Guided-Practice.md —— 说明录音检查、A/B 可比性及音频保存范围。
+
+5. National Institute on Deafness and Other Communication Disorders. (n.d.). Taking care of your voice. https://www.nidcd.nih.gov/health/taking-care-your-voice —— 提供日常用声及出现嗓音问题时的求助建议。
