@@ -7,9 +7,9 @@
 
 ## 一、理解这项主题
 
-TWVQ-SC 是《跨性别女性嗓音问卷》的授权简体中文版。它问的是"你怎么体验自己的声音"，以及声音对交流和生活的影响。它记录的是体验，帮你看清声音对生活的影响；心理诊断和声带检查是另外的事。
+TWVQ-SC 是《跨性别女性嗓音问卷》的授权简体中文版（Wang et al., 2022）。它问的是"你怎么体验自己的声音"，以及声音对交流和生活的影响（Dacakis & Davies, 2020）。它记录的是体验，帮你看清声音对生活的影响；心理诊断和声带检查是另外的事。
 
-Wang 等人 2022 年的研究里，260 位跨性别女性和 128 位顺性别女性填了相关问卷。公开摘要报告：内部一致性 Cronbach α 为 .969（题目之间答得一致），重测信度 ICC 为 .841（隔段时间再测结果稳定）。研究还做了效度检验。这些说的是"这份问卷在研究人群里靠谱"。至于 Pitchee 准不准、哪种训练有效、多少分算康复，它回答不了。
+Wang 等人 2022 年的研究里，260 位跨性别女性和 128 位顺性别女性填了相关问卷。公开摘要报告：内部一致性 Cronbach α 为 .969（题目之间答得一致），重测信度 ICC 为 .841（隔段时间再测结果稳定）（Wang et al., 2022）。研究还做了效度检验。这些说的是"这份问卷在研究人群里靠谱"。至于 Pitchee 准不准、哪种训练有效、多少分算康复，它回答不了。
 
 计分很简单：30 道题，每题 1–4 分：
 
@@ -20,9 +20,9 @@ Wang 等人 2022 年的研究里，260 位跨性别女性和 128 位顺性别女
 | 3 | 很多时候 |
 | 4 | 常常或一直都是 |
 
-30 题加起来，总分 30–120。问卷最后还有两道对"现在的声音"和"理想的声音"的整体评价，是帮你理清目标的，不计入总分。
+30 题加起来，总分 30–120（La Trobe University, 2021）。问卷最后还有两道对"现在的声音"和"理想的声音"的整体评价，是帮你理清目标的，不计入总分（La Trobe University, 2021）。
 
-分数越高，一般表示嗓音带来的困扰越多。但总分说不清困扰从哪来，也没有"降到 X 分就万事大吉"这条线。作者的建议是：盯着具体的题目和生活情境看变化，别只盯总分。
+分数越高，一般表示嗓音带来的困扰越多（Dacakis et al., 2013）。但总分说不清困扰从哪来，也没有"降到 X 分就万事大吉"这条线。作者的建议是：盯着具体的题目和生活情境看变化，别只盯总分（Dacakis & Davies, 2020）。题目覆盖发声功能、心理感受、社交参与等不同方面，回顾时可以按方面看，比如"社交参与"这一块有没有松动（Dacakis & Davies, 2020）。
 
 ## 二、练习前的观察
 
@@ -32,7 +32,7 @@ Wang 等人 2022 年的研究里，260 位跨性别女性和 128 位顺性别女
 - 最近的生活有没有大变化（比如突然电话变多、换了工作），这些会影响答案。
 - 圈出最戳你的那几题；有看不懂的题先记下来。
 
-别自己改题目——比如换个性别词——改完就不能再按原量表的解释来用了。这份验证是针对跨性别女性做的，改过的版本不能默认同样适用。
+别自己改题目——比如换个性别词——改完就不能再按原量表的解释来用了（Dacakis & Davies, 2020）。这份验证是针对跨性别女性做的，改过的版本不能默认同样适用（Wang et al., 2022）。如果你是跨性别男性、非二元性别者，或还在探索中，这份问卷不是在你这个人群里验证的；可以和有相关经验的专业人员聊聊，有没有更合适的评估方式（Dacakis & Davies, 2020）。
 
 问卷和 App 量的不是一回事：
 
@@ -63,10 +63,11 @@ App 分数高，不等于你在声音这件事上就没困扰了；反过来，�
 
 如果困扰一直都在，可以找有相关经验的嗓音专业人员或心理健康支持聊聊。不用先攒到某个分数才有资格求助；问卷和 App 的分数，更不能用来断定"问题只在心理"。
 
-## 四、依据与延伸阅读
+## 四、参考文献
 
-问卷本身请用 La Trobe 的授权版本填写，下面是论文和作者说明的原文链接。
+1. Wang, L., Zhang, J., Zhang, Q., Wang, C., Zhang, X., Hu, R., Jin, Y., Ding, H., & Chen, Z. (2022). A study on reliability and validity of the Simplified Chinese version of the Trans Woman Voice Questionnaire. *Journal of Speech, Language, and Hearing Research*, *65*(9), 3264–3275. https://doi.org/10.1044/2022_JSLHR-21-00685
+2. Dacakis, G., Davies, S., Oates, J. M., Douglas, J. M., & Johnston, J. R. (2013). Development and preliminary evaluation of the Transsexual Voice Questionnaire for male-to-female transsexuals. *Journal of Voice*, *27*(3), 312–320. https://doi.org/10.1016/j.jvoice.2012.11.005
+3. Dacakis, G., & Davies, S. (2020). The Trans Woman Voice Questionnaire (TWVQ) [Resources]. La Trobe Communication Clinic, La Trobe University. https://www.latrobe.edu.au/__data/assets/pdf_file/0010/1393363/TGV-Resources.pdf
+4. La Trobe University. (2021). Trans Woman Voice Questionnaire: Authorised Simplified Chinese translation [PDF]. https://www.latrobe.edu.au/school-allied-health-human-services-and-sport/ds-documents/TWVQ-Chinese-Simplified-Chinese-Authorised-Translation.pdf
 
-- **Wang, L., Zhang, J., Zhang, Q. 等（2022）**：[A Study on Reliability and Validity of the Simplified Chinese Version of the Trans Woman Voice Questionnaire](https://pubs.asha.org/doi/10.1044/2022_JSLHR-21-00685)。Journal of Speech, Language, and Hearing Research, 65(9), 3264–3275。本页研究数据依据公开摘要，不引用尚未核实的样本均值。
-- **Dacakis 与 Davies，La Trobe Communication Clinic**：[Resources: The Trans Woman Voice Questionnaire (TWVQ)](https://www.latrobe.edu.au/__data/assets/pdf_file/0010/1393363/TGV-Resources.pdf)。题项、情境与适用人群的作者说明。
-- **La Trobe University**：[TWVQ Authorised Simplified Chinese Translation](https://www.latrobe.edu.au/school-allied-health-human-services-and-sport/ds-documents/TWVQ-Chinese-Simplified-Chinese-Authorised-Translation.pdf)。正式填写请使用此授权版本。
+这篇介绍问卷的用法，不能代替专业评估；需要时请寻求专业支持。
